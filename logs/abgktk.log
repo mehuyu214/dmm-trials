@@ -1,0 +1,11 @@
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/i386-unix/wine-preloader -> /home/hatch/workspace/win32-compat/wrap/w10524857318775472579.sh
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/../../bin/wineserver -> /home/hatch/workspace/win32-compat/wrap/w4412266678325573379.sh
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/i386-unix/wine-preloader -> /home/hatch/workspace/win32-compat/wrap/w10524857318775472579.sh
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/i386-unix/wine-preloader -> /home/hatch/workspace/win32-compat/wrap/w10524857318775472579.sh
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/i386-unix/wine-preloader -> /home/hatch/workspace/win32-compat/wrap/w10524857318775472579.sh
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/i386-unix/wine-preloader -> /home/hatch/workspace/win32-compat/wrap/w10524857318775472579.sh
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/i386-unix/wine-preloader -> /home/hatch/workspace/win32-compat/wrap/w10524857318775472579.sh
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/i386-unix/wine-preloader -> /home/hatch/workspace/win32-compat/wrap/w10524857318775472579.sh
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/i386-unix/wine-preloader -> /home/hatch/workspace/win32-compat/wrap/w10524857318775472579.sh
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/i386-unix/wine-preloader -> /home/hatch/workspace/win32-compat/wrap/w10524857318775472579.sh
+wine: failed to open "\\var\\tmp\\abgktk-run\\\xe5\x8d\x83\xe3\x81\xae\xe5\x88\x83\xe6\xbf\xa4\xe3\x80\x81\xe6\xa1\x83\xe8\x8a\xb1\xe6\x9f\x93\xe3\x81\xae\xe7\x9a\x87\xe5\xa7\xab \xe4\xbd\x93\xe9\xa8\x93\xe7\x89\x88 Ver1.1 Online\\senmomo_online_trial\\BGI.exe"

@@ -1,0 +1,29 @@
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/i386-unix/wine-preloader -> /home/hatch/workspace/win32-compat/wrap/w10524857318775472579.sh
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/../../bin/wineserver -> /home/hatch/workspace/win32-compat/wrap/w4412266678325573379.sh
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/i386-unix/wine-preloader -> /home/hatch/workspace/win32-compat/wrap/w10524857318775472579.sh
+002c:err:wineboot:process_run_key Error running cmd L"C:\\windows\\system32\\winemenubuilder.exe -a -r" (2).
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/i386-unix/wine-preloader -> /home/hatch/workspace/win32-compat/wrap/w10524857318775472579.sh
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/i386-unix/wine-preloader -> /home/hatch/workspace/win32-compat/wrap/w10524857318775472579.sh
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/i386-unix/wine-preloader -> /home/hatch/workspace/win32-compat/wrap/w10524857318775472579.sh
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/i386-unix/wine-preloader -> /home/hatch/workspace/win32-compat/wrap/w10524857318775472579.sh
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/i386-unix/wine-preloader -> /home/hatch/workspace/win32-compat/wrap/w10524857318775472579.sh
+009c:err:ntoskrnl:ZwLoadDriver failed to create driver L"\\Registry\\Machine\\System\\CurrentControlSet\\Services\\winebus": c0000135
+0034:fixme:service:scmdatabase_autostart_services Auto-start service L"winebus" failed to start: 126
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/i386-unix/wine-preloader -> /home/hatch/workspace/win32-compat/wrap/w10524857318775472579.sh
+00a4:err:seh:segv_handler Got unexpected trap -1
+00a4:err:virtual:virtual_setup_exception nested exception on signal stack addr 0x4003e7c6 stack 0xf1f0d4
+00bc:err:wineusb:DriverEntry Failed to initialize Unix library, status 0xc0000135.
+00bc:err:ntoskrnl:ZwLoadDriver failed to create driver L"\\Registry\\Machine\\System\\CurrentControlSet\\Services\\wineusb": c0000135
+0034:fixme:service:scmdatabase_autostart_services Auto-start service L"wineusb" failed to start: 126
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/i386-unix/wine-preloader -> /home/hatch/workspace/win32-compat/wrap/w10524857318775472579.sh
+00c4:err:seh:segv_handler Got unexpected trap -1
+00d4:err:ntoskrnl:ZwLoadDriver failed to create driver L"\\Registry\\Machine\\System\\CurrentControlSet\\Services\\winebth": c00000e5
+0034:fixme:service:scmdatabase_autostart_services Auto-start service L"winebth" failed to start: 1359
+00e0:err:seh:segv_handler Got unexpected trap -1
+00e0:err:virtual:virtual_setup_exception nested exception on signal stack addr 0x406097c6 stack 0xf1f0d4
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/i386-unix/wine-preloader -> /home/hatch/workspace/win32-compat/wrap/w10524857318775472579.sh
+00ec:err:vulkan:vulkan_init_once Failed to load libvulkan.so.1
+libEGL warning: DRI3 error: Could not get DRI3 device
+libEGL warning: Ensure your X server supports DRI3 to get accelerated rendering
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/i386-unix/wine-preloader -> /home/hatch/workspace/win32-compat/wrap/w10524857318775472579.sh
+Xlib:  extension "MIT-SHM" missing on display ":118".

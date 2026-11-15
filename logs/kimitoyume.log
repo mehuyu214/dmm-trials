@@ -1,0 +1,1966 @@
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/i386-unix/wine-preloader -> /home/hatch/workspace/win32-compat/wrap/w10524857318775472579.sh
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/../../bin/wineserver -> /home/hatch/workspace/win32-compat/wrap/w4412266678325573379.sh
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/i386-unix/wine-preloader -> /home/hatch/workspace/win32-compat/wrap/w10524857318775472579.sh
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/i386-unix/wine-preloader -> /home/hatch/workspace/win32-compat/wrap/w10524857318775472579.sh
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/i386-unix/wine-preloader -> /home/hatch/workspace/win32-compat/wrap/w10524857318775472579.sh
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/i386-unix/wine-preloader -> /home/hatch/workspace/win32-compat/wrap/w10524857318775472579.sh
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/i386-unix/wine-preloader -> /home/hatch/workspace/win32-compat/wrap/w10524857318775472579.sh
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/i386-unix/wine-preloader -> /home/hatch/workspace/win32-compat/wrap/w10524857318775472579.sh
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/i386-unix/wine-preloader -> /home/hatch/workspace/win32-compat/wrap/w10524857318775472579.sh
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/i386-unix/wine-preloader -> /home/hatch/workspace/win32-compat/wrap/w10524857318775472579.sh
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/i386-unix/wine-preloader -> /home/hatch/workspace/win32-compat/wrap/w10524857318775472579.sh
+libEGL warning: DRI3 error: Could not get DRI3 device
+libEGL warning: Ensure your X server supports DRI3 to get accelerated rendering
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/i386-unix/wine-preloader -> /home/hatch/workspace/win32-compat/wrap/w10524857318775472579.sh
+05:50:04 (info) Loading configuration file "Z:\home\hatch\workspace\dmm-trials\prefixes\kimitoyume\drive_c\Program Files\Laplacian\kimiyume\キミトユメミシ.cf" succeeded.
+05:50:04 (info) Loading configuration file "C:\users\root\AppData\Roaming\Laplacian\kimiyume\savedata\キミトユメミシ.cfu" failed (ignoring) : file not found.
+05:50:04 (info) Data path : file://./c/users/root/appdata/roaming/laplacian/kimiyume/savedata/
+05:50:05 吉里吉里[きりきり] Z 実行コア/1.3.3.7 (Compiled on Aug 10 2016 16:47:04) TJS2/2.4.28 Copyright (C) 1997-2013 W.Dee and contributors All rights reserved.
+05:50:05 バージョン情報の詳細は -about を付けて起動すると閲覧できます
+05:50:05 Windows NT 10.0.2661  (Win32) 上で実行が開始されました
+05:50:05 (info) 自動検索パステーブルを再構築しています ...
+05:50:05 (info) Total 0 file(s) found, 0 file(s) activated. (1ms)
+05:50:05 (info) Total physical memory : 4024926208
+05:50:05 (info) Selected project directory : file://./z/home/hatch/workspace/dmm-trials/prefixes/kimitoyume/drive_c/program files/laplacian/kimiyume/data.xp3>
+05:50:05 (info) CPU #0 :   FPU:yes  MMX:yes  3DN:yes  SSE:yes  CMOVcc:yes  E3DN:yes  EMMX:yes  SSE2:yes  TSC:yes  TSCP:yes  SSE3:yes  SSSE3:yes  SSE41:yes  SSE42:yes  SSE4A:yes  AVX:yes  AVX2:no  FMA3:yes  AES:yes  RDRAND:yes  RDSEED:yes  AMD(AuthenticAMD) [QEMU TCG CPU version 2.5+]  CPUID(1)/EAX=00000663 CPUID(1)/EBX=00000800
+05:50:05 (info) CPU #1 :   FPU:yes  MMX:yes  3DN:yes  SSE:yes  CMOVcc:yes  E3DN:yes  EMMX:yes  SSE2:yes  TSC:yes  TSCP:yes  SSE3:yes  SSSE3:yes  SSE41:yes  SSE42:yes  SSE4A:yes  AVX:yes  AVX2:no  FMA3:yes  AES:yes  RDRAND:yes  RDSEED:yes  AMD(AuthenticAMD) [QEMU TCG CPU version 2.5+]  CPUID(1)/EAX=00000663 CPUID(1)/EBX=00000800
+05:50:05 (info) CPU #2 :   FPU:yes  MMX:yes  3DN:yes  SSE:yes  CMOVcc:yes  E3DN:yes  EMMX:yes  SSE2:yes  TSC:yes  TSCP:yes  SSE3:yes  SSSE3:yes  SSE41:yes  SSE42:yes  SSE4A:yes  AVX:yes  AVX2:no  FMA3:yes  AES:yes  RDRAND:yes  RDSEED:yes  AMD(AuthenticAMD) [QEMU TCG CPU version 2.5+]  CPUID(1)/EAX=00000663 CPUID(1)/EBX=00000800
+05:50:05 (info) CPU #3 :   FPU:yes  MMX:yes  3DN:yes  SSE:yes  CMOVcc:yes  E3DN:yes  EMMX:yes  SSE2:yes  TSC:yes  TSCP:yes  SSE3:yes  SSSE3:yes  SSE41:yes  SSE42:yes  SSE4A:yes  AVX:yes  AVX2:no  FMA3:yes  AES:yes  RDRAND:yes  RDSEED:yes  AMD(AuthenticAMD) [QEMU TCG CPU version 2.5+]  CPUID(1)/EAX=00000663 CPUID(1)/EBX=00000800
+05:50:05 (info) finally detected CPU features :   FPU:yes  MMX:yes  3DN:yes  SSE:yes  CMOVcc:yes  E3DN:yes  EMMX:yes  SSE2:yes  TSC:yes  TSCP:yes  SSE3:yes  SSSE3:yes  SSE41:yes  SSE42:yes  SSE4A:yes  AVX:yes  AVX2:no  FMA3:yes  AES:yes  RDRAND:yes  RDSEED:yes
+05:50:05 (info) Specified option(s) (earlier item has more priority) : -datapath=$(appdatapath)\Laplacian\kimiyume\savedata
+05:50:05 (info) 起動スクリプト読込み中 : startup.tjs
+05:50:05 (info) Trying to read XP3 virtual file system information from : file://./z/home/hatch/workspace/dmm-trials/prefixes/kimitoyume/drive_c/program files/laplacian/kimiyume/data.xp3
+05:50:06 (info) Done. (contains 14817 file(s), 42847 segment(s))
+05:50:06 (info) 自動検索パステーブルを再構築しています ...
+05:50:06 (info) Total 0 file(s) found, 0 file(s) activated. (0ms)
+05:50:06 wuvorbis: SSE disabled. MMX enabled. 3DNow! enabled.
+05:50:06 (info) 自動検索パステーブルを再構築しています ...
+05:50:06 (info) Total 69 file(s) found, 69 file(s) activated. (20ms)
+05:50:06 OS : Windows NT 10.0.2661  (Win32)
+05:50:06 KAG : 3.32 stable rev. 2
+05:50:06 Kirikiri : 1.3.3.7
+05:50:06 Config.tjs を読み込みました(11ms)
+05:50:06 UpdateConfig.tjs を読み込みました(15ms)
+05:50:06 KAG System スクリプトを読み込んでいます...
+05:50:06 Utils.tjs を読み込みました(12ms)
+05:50:06 KAGLayer.tjs を読み込みました(21ms)
+05:50:06 HistoryLayer.tjs を読み込みました(35ms)
+05:50:06 BGM.tjs を読み込みました(20ms)
+05:50:06 SE.tjs を読み込みました(14ms)
+05:50:06 Movie.tjs を読み込みました(21ms)
+05:50:06 Conductor.tjs を読み込みました(12ms)
+05:50:06 AnimationLayer.tjs を読み込みました(29ms)
+05:50:06 GraphicLayer.tjs を読み込みました(22ms)
+05:50:06 MessageLayer.tjs を読み込みました(107ms)
+05:50:06 Menus.tjs を読み込みました(64ms)
+05:50:06 DefaultMover.tjs を読み込みました(14ms)
+05:50:07 MainWindow.tjs を読み込みました(380ms)
+05:50:07 スクリプトの読み込みに 800ms かかりました
+05:50:08 (info) Use Process HeadAlloc allocater for Bitmap
+05:50:10 (info) Direct3D 読込み...
+libEGL warning: DRI3 error: Could not get DRI3 device
+libEGL warning: Ensure your X server supports DRI3 to get accelerated rendering
+05:50:17 (info) 最適なフルスクリーン解像度を検索 ...
+05:50:17 (info) condition: 推奨スクリーンモード: Width=1280, Height=720, BitsPerPixel=unspecified
+05:50:17 (info) condition: モード: fsrNoChange
+05:50:17 (info) condition: ズームモード: inner
+05:50:17 (info) environment: デフォルトスクリーンモード: Width=1280, Height=720, BitsPerPixel=32
+05:50:17 (info) environment: デフォルトスクリーンアスペクトレート: 16 : 9
+05:50:17 (info) environment: Direct3D を使用
+05:50:17 (info) environment: 有効なディスプレイモード:
+05:50:17 (info)  Width=1280, Height=720, AspectRatio=16:9, BitsPerPixel=16/32
+05:50:17 (info) result: candidates:
+05:50:17 (info)  Width=1280, Height=720, BitsPerPixel=32, ZoomNumer=1, ZoomDenom=1, RankZoomIn=0, RankBPP=0, RankZoomBeauty=0, RankSize=0
+05:50:17 (info)  Width=1280, Height=720, BitsPerPixel=16, ZoomNumer=1, ZoomDenom=1, RankZoomIn=0, RankBPP=1016, RankZoomBeauty=0, RankSize=0
+05:50:17 (info) スクリーンモードの Width=1280, Height=720, BitsPerPixel=32, ZoomNumer=1, ZoomDenom=1, RankZoomIn=0, RankBPP=0, RankZoomBeauty=0, RankSize=0 を試みる
+05:50:17 (info) スクリーンモード変更に成功しました
+05:50:17 KAGMainWindow のコンストラクタで 10313ms かかりました
+05:50:17 (info) 自動検索パステーブルを再構築しています ...
+05:50:17 (info) Total 69 file(s) found, 69 file(s) activated. (7ms)
+05:50:17 LoadThumbnail.tjs を読み込みました(18ms)
+05:50:17 AfterInit.tjs を読み込みました(42ms)
+05:50:17 ================================================================================
+05:50:17 Scenario loaded : first.ks
+05:50:17 処理を開始します
+05:50:17 (info) 起動スクリプト実行終了。
+05:50:17 (info) CPU clock (roughly) : 1512MHz
+05:50:17 first.ks : 
+05:50:17 first.ks : 
+05:50:17 first.ks : [mappfont storage="font/GenJyuuG-M-M-28.tft"]
+05:50:17 first.ks : [font face="GenJyuuG-M-M-28" color=0x000000 edge=true edgecolor=0xffffff]
+05:50:17 first.ks : [call storage="systembutton.ks"]
+05:50:17 first.ks : call stack depth before calling : 0
+05:50:17 (info) 自動検索パステーブルを再構築しています ...
+05:50:17 (info) Total 69 file(s) found, 69 file(s) activated. (4ms)
+05:50:17 ================================================================================
+05:50:17 Scenario loaded : systembutton.ks
+05:50:17 systembutton.ks : @if exp="typeof(global.systembutton_object) == 'undefined'"
+05:50:17 Plugin.tjs を読み込みました(8ms)
+05:50:17 ButtonLayer.tjs を読み込みました(10ms)
+05:50:17 systembutton.ks : @endif
+05:50:17 systembutton.ks : @macro name="sysbtopt"
+05:50:17 systembutton.ks : @eval exp="systembutton_object.setOptions(mp)"
+05:50:17 systembutton.ks : @endmacro
+05:50:17 macro : sysbtopt : [eval exp="systembutton_object.setOptions(mp)"]
+05:50:17 systembutton.ks : @return
+05:50:17 ================================================================================
+05:50:17 Scenario loaded : first.ks
+05:50:17 first.ks : returned to : (start) line offset 10
+05:50:17 first.ks : call stack depth after returning : 0
+05:50:17 first.ks : [call storage="scenario/sys/fanc_init.ks"]
+05:50:17 first.ks : call stack depth before calling : 0
+05:50:17 ================================================================================
+05:50:17 Scenario loaded : scenario/sys/fanc_init.ks
+05:50:17 fanc_init.ks : [if exp="sf.auto==void"]
+05:50:17 fanc_init.ks : [eval exp="sf.auto=1"]
+05:50:17 fanc_init.ks : [endif]
+05:50:17 fanc_init.ks : [if exp="sf.auto_choice==void"]
+05:50:17 fanc_init.ks : [eval exp="sf.auto_choice=1"]
+05:50:17 fanc_init.ks : [endif]
+05:50:17 fanc_init.ks : [if exp="sf.auto_click==void"]
+05:50:17 fanc_init.ks : [eval exp="sf.auto_click=1"]
+05:50:17 fanc_init.ks : [endif]
+05:50:17 fanc_init.ks : [if exp="sf.auto_voicewait==void"]
+05:50:17 fanc_init.ks : [eval exp="sf.auto_voicewait=1"]
+05:50:17 fanc_init.ks : [endif]
+05:50:17 fanc_init.ks : [if exp="sf.skip==void"]
+05:50:17 fanc_init.ks : [eval exp="sf.skip=1"]
+05:50:17 fanc_init.ks : [endif]
+05:50:17 fanc_init.ks : [if exp="sf.skip_kidokuorall==void"]
+05:50:17 fanc_init.ks : [eval exp="sf.skip_kidokuorall=1"]
+05:50:17 fanc_init.ks : [endif]
+05:50:17 fanc_init.ks : [if exp="sf.skip_choice==void"]
+05:50:17 fanc_init.ks : [eval exp="sf.skip_choice=1"]
+05:50:17 fanc_init.ks : [endif]
+05:50:17 fanc_init.ks : [if exp="sf.voicecut==void"]
+05:50:17 fanc_init.ks : [eval exp="sf.voicecut=1"]
+05:50:17 fanc_init.ks : [endif]
+05:50:17 fanc_init.ks : [if exp="sf.sou_bgm_auto==void"]
+05:50:17 fanc_init.ks : [eval exp="sf.sou_bgm_auto=1"]
+05:50:17 fanc_init.ks : [endif]
+05:50:17 fanc_init.ks : 
+05:50:17 fanc_init.ks : [if exp="sf.effect_on==void"]
+05:50:17 fanc_init.ks : [eval exp="sf.effect_on=1"]
+05:50:17 fanc_init.ks : [endif]
+05:50:17 fanc_init.ks : [if exp="sf.fontcolor_text==void"]
+05:50:17 fanc_init.ks : [eval exp="sf.fontcolor_text=1"]
+05:50:17 fanc_init.ks : [endif]
+05:50:17 fanc_init.ks : [if exp="sf.fontcolor_choice==void"]
+05:50:17 fanc_init.ks : [eval exp="sf.fontcolor_choice=1"]
+05:50:17 fanc_init.ks : [endif]
+05:50:17 fanc_init.ks : [if exp="sf.app_activ==void"]
+05:50:17 fanc_init.ks : [eval exp="sf.app_activ=1"]
+05:50:17 fanc_init.ks : [endif]
+05:50:17 fanc_init.ks : [if exp="sf.mouse_auto==void"]
+05:50:17 fanc_init.ks : [eval exp="sf.mouse_auto=1"]
+05:50:17 fanc_init.ks : [endif]
+05:50:17 fanc_init.ks : [if exp="sf.se_on==void"]
+05:50:17 fanc_init.ks : [eval exp="sf.se_on=1"]
+05:50:17 fanc_init.ks : [endif]
+05:50:17 fanc_init.ks : 
+05:50:17 fanc_init.ks : [if exp="sf.dialog_save==void"]
+05:50:17 fanc_init.ks : [eval exp="sf.dialog_save=1"]
+05:50:17 fanc_init.ks : [endif]
+05:50:17 fanc_init.ks : [if exp="sf.dialog_load==void"]
+05:50:18 fanc_init.ks : [eval exp="sf.dialog_load=1"]
+05:50:18 fanc_init.ks : [endif]
+05:50:18 fanc_init.ks : [if exp="sf.dialog_save_over==void"]
+05:50:18 fanc_init.ks : [eval exp="sf.dialog_save_over=1"]
+05:50:18 fanc_init.ks : [endif]
+05:50:18 fanc_init.ks : [if exp="sf.dialog_delete==void"]
+05:50:18 fanc_init.ks : [eval exp="sf.dialog_delete=1"]
+05:50:18 fanc_init.ks : [endif]
+05:50:18 fanc_init.ks : [if exp="sf.dialog_qsave==void"]
+05:50:18 fanc_init.ks : [eval exp="sf.dialog_qsave=1"]
+05:50:18 fanc_init.ks : [endif]
+05:50:18 fanc_init.ks : [if exp="sf.dialog_qload==void"]
+05:50:18 fanc_init.ks : [eval exp="sf.dialog_qload=1"]
+05:50:18 fanc_init.ks : [endif]
+05:50:18 fanc_init.ks : [if exp="sf.dialog_title==void"]
+05:50:18 fanc_init.ks : [eval exp="sf.dialog_title=1"]
+05:50:18 fanc_init.ks : [endif]
+05:50:18 fanc_init.ks : [if exp="sf.dialog_close==void"]
+05:50:18 fanc_init.ks : [eval exp="sf.dialog_close=1"]
+05:50:18 fanc_init.ks : [endif]
+05:50:18 fanc_init.ks : [if exp="sf.dialog_init==void"]
+05:50:18 fanc_init.ks : [eval exp="sf.dialog_init=1"]
+05:50:18 fanc_init.ks : [endif]
+05:50:18 fanc_init.ks : [if exp="sf.messe_sp==void"]
+05:50:18 fanc_init.ks : [eval exp="sf.messe_sp=5"]
+05:50:18 fanc_init.ks : [endif]
+05:50:18 fanc_init.ks : [if exp="sf.delay_sp==void"]
+05:50:18 fanc_init.ks : [eval exp="sf.delay_sp=(7 * (11 - sf.messe_sp))"]
+05:50:18 fanc_init.ks : [endif]
+05:50:18 fanc_init.ks : [delay speed=&sf.delay_sp]
+05:50:18 fanc_init.ks : [if exp="sf.messe_auto_sp==void"]
+05:50:18 fanc_init.ks : [eval exp="sf.messe_auto_sp=5"]
+05:50:18 fanc_init.ks : [endif]
+05:50:18 fanc_init.ks : [eval exp="kag.autoModePageWait = (400 * (11 - sf.messe_auto_sp))"]
+05:50:18 fanc_init.ks : [eval exp="kag.autoModeLineWait = (200 * (11 - sf.messe_auto_sp))"]
+05:50:18 fanc_init.ks : [if exp="sf.messe_kidoku_sp==void"]
+05:50:18 fanc_init.ks : [eval exp="sf.messe_kidoku_sp=5"]
+05:50:18 fanc_init.ks : [endif]
+05:50:18 fanc_init.ks : [if exp="sf.messe_window_opa==void"]
+05:50:18 fanc_init.ks : [eval exp="sf.messe_window_opa=10"]
+05:50:18 fanc_init.ks : [endif]
+05:50:18 fanc_init.ks : [if exp="sf.volume_master==void"]
+05:50:18 fanc_init.ks : [eval exp="sf.volume_master=10"]
+05:50:18 fanc_init.ks : [endif]
+05:50:18 fanc_init.ks : [if exp="sf.volume_bgm==void"]
+05:50:18 fanc_init.ks : [eval exp="sf.volume_bgm=10"]
+05:50:18 fanc_init.ks : [endif]
+05:50:18 fanc_init.ks : [if exp="sf.volume_se==void"]
+05:50:18 fanc_init.ks : [eval exp="sf.volume_se=10"]
+05:50:18 fanc_init.ks : [endif]
+05:50:18 fanc_init.ks : [if exp="sf.volume_voice==void"]
+05:50:18 fanc_init.ks : [eval exp="sf.volume_voice=10"]
+05:50:18 fanc_init.ks : [endif]
+05:50:18 fanc_init.ks : [eval exp="sf.volume_voice_chara = [] if sf.volume_voice_chara === void"]
+05:50:18 fanc_init.ks : [if exp="sf.volume_voice_chara[1]==void"]
+05:50:18 fanc_init.ks : [eval exp="sf.volume_voice_chara[1]=10"]
+05:50:18 fanc_init.ks : [endif]
+05:50:18 fanc_init.ks : [if exp="sf.volume_voice_chara[2]==void"]
+05:50:18 fanc_init.ks : [eval exp="sf.volume_voice_chara[2]=10"]
+05:50:18 fanc_init.ks : [endif]
+05:50:18 fanc_init.ks : [if exp="sf.volume_voice_chara[3]==void"]
+05:50:18 fanc_init.ks : [eval exp="sf.volume_voice_chara[3]=10"]
+05:50:18 fanc_init.ks : [endif]
+05:50:18 fanc_init.ks : [if exp="sf.volume_voice_chara[4]==void"]
+05:50:18 fanc_init.ks : [eval exp="sf.volume_voice_chara[4]=10"]
+05:50:18 fanc_init.ks : [endif]
+05:50:18 fanc_init.ks : [if exp="sf.volume_voice_chara[5]==void"]
+05:50:18 fanc_init.ks : [eval exp="sf.volume_voice_chara[5]=10"]
+05:50:18 fanc_init.ks : [endif]
+05:50:18 fanc_init.ks : [if exp="sf.volume_voice_chara[6]==void"]
+05:50:18 fanc_init.ks : [eval exp="sf.volume_voice_chara[6]=10"]
+05:50:18 fanc_init.ks : [endif]
+05:50:18 fanc_init.ks : [if exp="sf.volume_voice_chara[7]==void"]
+05:50:18 fanc_init.ks : [eval exp="sf.volume_voice_chara[7]=10"]
+05:50:18 fanc_init.ks : [endif]
+05:50:18 fanc_init.ks : [if exp="sf.volume_voice_chara[8]==void"]
+05:50:18 fanc_init.ks : [eval exp="sf.volume_voice_chara[8]=10"]
+05:50:18 fanc_init.ks : [endif]
+05:50:18 fanc_init.ks : 
+05:50:18 fanc_init.ks : [if exp="tf.revoice==void"]
+05:50:18 fanc_init.ks : [eval exp="tf.revoice=''"]
+05:50:18 fanc_init.ks : [endif]
+05:50:18 fanc_init.ks : [if exp="tf.revoice_buf==void"]
+05:50:18 fanc_init.ks : [eval exp="tf.revoice_buf=''"]
+05:50:18 fanc_init.ks : [endif]
+05:50:18 fanc_init.ks : 
+05:50:18 fanc_init.ks : 
+05:50:18 fanc_init.ks : 
+05:50:18 fanc_init.ks : 
+05:50:18 fanc_init.ks : [return]
+05:50:18 ================================================================================
+05:50:18 Scenario loaded : first.ks
+05:50:18 first.ks : returned to : (start) line offset 11
+05:50:18 first.ks : call stack depth after returning : 0
+05:50:18 first.ks : [call storage="scenario/sys/lay_init.ks"]
+05:50:18 first.ks : call stack depth before calling : 0
+05:50:18 ================================================================================
+05:50:18 Scenario loaded : scenario/sys/lay_init.ks
+05:50:18 lay_init.ks : [position layer="message40" left=0 top=0 width="&kag.scWidth" height="&kag.scHeight" frame="" color=0x000000 opacity=0 visible=false]
+05:50:18 lay_init.ks : 
+05:50:18 lay_init.ks : [position layer="message18" left=0 top=0 width="&kag.scWidth" height="&kag.scHeight" frame="" color=0x000000 opacity=0 visible=false page=fore]
+05:50:18 lay_init.ks : [position layer="message18" left=0 top=0 width="&kag.scWidth" height="&kag.scHeight" frame="" color=0x000000 opacity=0 visible=false page=back]
+05:50:18 lay_init.ks : [position layer="message17" left=0 top=0 width="&kag.scWidth" height="&kag.scHeight" frame="" color=0x000000 opacity=0 visible=false page=fore]
+05:50:18 lay_init.ks : [position layer="message17" left=0 top=0 width="&kag.scWidth" height="&kag.scHeight" frame="" color=0x000000 opacity=0 visible=false page=back]
+05:50:18 lay_init.ks : [position layer="message16" left=0 top=0 width="&kag.scWidth" height="&kag.scHeight" frame="" color=0x000000 opacity=0 visible=false page=fore]
+05:50:18 lay_init.ks : [position layer="message16" left=0 top=0 width="&kag.scWidth" height="&kag.scHeight" frame="" color=0x000000 opacity=0 visible=false page=back]
+05:50:18 lay_init.ks : [position layer="message15" left=0 top=0 width="&kag.scWidth" height="&kag.scHeight" frame="" color=0x000000 opacity=0 visible=false page=fore]
+05:50:18 lay_init.ks : [position layer="message15" left=0 top=0 width="&kag.scWidth" height="&kag.scHeight" frame="" color=0x000000 opacity=0 visible=false page=back]
+05:50:18 lay_init.ks : [position layer="message14" left=0 top=0 width="&kag.scWidth" height="&kag.scHeight" frame="" color=0x000000 opacity=0 visible=false page=fore]
+05:50:18 lay_init.ks : [position layer="message14" left=0 top=0 width="&kag.scWidth" height="&kag.scHeight" frame="" color=0x000000 opacity=0 visible=false page=back]
+05:50:18 lay_init.ks : [position layer="message13" left=0 top=0 width="&kag.scWidth" height="&kag.scHeight" frame="" color=0x000000 opacity=0 visible=false page=fore]
+05:50:18 lay_init.ks : [position layer="message13" left=0 top=0 width="&kag.scWidth" height="&kag.scHeight" frame="" color=0x000000 opacity=0 visible=false page=back]
+05:50:18 lay_init.ks : [position layer="message20" left=0 top=0 width="&kag.scWidth" height="&kag.scHeight" frame="" color=0x000000 opacity=0 visible=false page=fore]
+05:50:18 lay_init.ks : [position layer="message20" left=0 top=0 width="&kag.scWidth" height="&kag.scHeight" frame="" color=0x000000 opacity=0 visible=false page=back]
+05:50:18 lay_init.ks : [position layer="message19" left=0 top=0 width="&kag.scWidth" height="&kag.scHeight" frame="" color=0x000000 opacity=0 visible=false page=fore]
+05:50:18 lay_init.ks : [position layer="message19" left=0 top=0 width="&kag.scWidth" height="&kag.scHeight" frame="" color=0x000000 opacity=0 visible=false page=back]
+05:50:18 lay_init.ks : [position layer="message12" left=0 top=500 width="&kag.scWidth" height="&kag.scHeight" frame="" color=0x000000 opacity=0 visible=false page=fore]
+05:50:18 lay_init.ks : [position layer="message12" left=0 top=500 width="&kag.scWidth" height="&kag.scHeight" frame="" color=0x000000 opacity=0 visible=false page=back]
+05:50:18 lay_init.ks : [position layer="message11" left=220 top=520 width="&kag.scWidth" height="&kag.scHeight" frame="image/game/namebox" marginl=65 margint=0 visible=false page=fore]
+05:50:18 lay_init.ks : [position layer="message11" left=220 top=520 width="&kag.scWidth" height="&kag.scHeight" frame="image/game/namebox" marginl=65 margint=0 visible=false page=back]
+05:50:18 lay_init.ks : [position layer="message10" left=0 top=536 width=1157 height=175 frame="" marginl=265 margint=25 visible=false page=fore]
+05:50:18 lay_init.ks : [position layer="message10" left=0 top=536 width=1157 height=175 frame="" marginl=265 margint=25 visible=false page=back]
+05:50:18 lay_init.ks : [position layer="message8" left=0 top=0 width="&kag.scWidth" height="&kag.scHeight" frame="" color=0x000000 opacity=0 visible=false page=fore]
+05:50:18 lay_init.ks : [position layer="message8" left=0 top=0 width="&kag.scWidth" height="&kag.scHeight" frame="" color=0x000000 opacity=0 visible=false page=back]
+05:50:18 lay_init.ks : 
+05:50:18 lay_init.ks : [image layer=50 left=0 top=536 storage="image/game/textbox.png" visible=false page=fore]
+05:50:18 image/game/textbox.png の読み込みに 24ms かかりました
+05:50:18 lay_init.ks : [image layer=50 left=0 top=536 storage="image/game/textbox.png" visible=false page=back]
+05:50:18 image/game/textbox.png の読み込みに 1ms かかりました
+05:50:18 lay_init.ks : 
+05:50:18 lay_init.ks : [freeimage layer=31 page=fore]
+05:50:18 lay_init.ks : [freeimage layer=31 page=back]
+05:50:18 lay_init.ks : 
+05:50:18 lay_init.ks : [freeimage layer=30 page=fore]
+05:50:18 lay_init.ks : [freeimage layer=30 page=back]
+05:50:18 lay_init.ks : 
+05:50:18 lay_init.ks : [freeimage layer=17 page=fore]
+05:50:18 lay_init.ks : [freeimage layer=17 page=back]
+05:50:18 lay_init.ks : [freeimage layer=16 page=fore]
+05:50:18 lay_init.ks : [freeimage layer=16 page=back]
+05:50:18 lay_init.ks : [freeimage layer=15 page=fore]
+05:50:18 lay_init.ks : [freeimage layer=15 page=back]
+05:50:18 lay_init.ks : [freeimage layer=14 page=fore]
+05:50:18 lay_init.ks : [freeimage layer=14 page=back]
+05:50:18 lay_init.ks : [freeimage layer=13 page=fore]
+05:50:18 lay_init.ks : [freeimage layer=13 page=back]
+05:50:18 lay_init.ks : [freeimage layer=12 page=fore]
+05:50:18 lay_init.ks : [freeimage layer=12 page=back]
+05:50:18 lay_init.ks : [freeimage layer=11 page=fore]
+05:50:18 lay_init.ks : [freeimage layer=11 page=back]
+05:50:18 lay_init.ks : 
+05:50:18 lay_init.ks : [freeimage layer=0]
+05:50:18 lay_init.ks : 
+05:50:18 lay_init.ks : 
+05:50:18 lay_init.ks : [return]
+05:50:18 ================================================================================
+05:50:18 Scenario loaded : first.ks
+05:50:18 first.ks : returned to : (start) line offset 12
+05:50:18 first.ks : call stack depth after returning : 0
+05:50:18 first.ks : [call storage="scenario/sys/sound_init.ks"]
+05:50:18 first.ks : call stack depth before calling : 0
+05:50:18 ================================================================================
+05:50:18 Scenario loaded : scenario/sys/sound_init.ks
+05:50:18 sound_init.ks : 
+05:50:18 sound_init.ks : [eval exp="tf.volume = sf.volume_master * 10"]
+05:50:18 sound_init.ks : [seopt volume="&tf.volume" buf=21]
+05:50:18 sound_init.ks : 
+05:50:18 sound_init.ks : 
+05:50:18 sound_init.ks : 
+05:50:18 sound_init.ks : [eval exp="tf.volume = sf.volume_bgm * sf.volume_master"]
+05:50:18 sound_init.ks : [bgmopt gvolume="&tf.volume" volume=100]
+05:50:18 sound_init.ks : 
+05:50:18 sound_init.ks : 
+05:50:18 sound_init.ks : [eval exp="tf.volume = sf.volume_se * sf.volume_master"]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume" buf=21]
+05:50:18 sound_init.ks : 
+05:50:18 sound_init.ks : [if exp="sf.se_on==1"]
+05:50:18 sound_init.ks : [eval exp="tf.volume1 = sf.volume_se * sf.volume_master"]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume1" volume="&tf.volume" buf=0]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume1" volume="&tf.volume" buf=1]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume1" volume="&tf.volume" buf=2]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume1" volume="&tf.volume" buf=3]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume1" volume="&tf.volume" buf=4]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume1" volume="&tf.volume" buf=5]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume1" volume="&tf.volume" buf=6]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume1" volume="&tf.volume" buf=7]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume1" volume="&tf.volume" buf=8]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume1" volume="&tf.volume" buf=9]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume1" volume="&tf.volume" buf=10]
+05:50:18 sound_init.ks : [elsif exp="sf.se_on==2"]
+05:50:18 sound_init.ks : [eval exp="tf.volume1 = 0"]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume1" volume="&tf.volume" buf=0]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume1" volume="&tf.volume" buf=1]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume1" volume="&tf.volume" buf=2]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume1" volume="&tf.volume" buf=3]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume1" volume="&tf.volume" buf=4]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume1" volume="&tf.volume" buf=5]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume1" volume="&tf.volume" buf=6]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume1" volume="&tf.volume" buf=7]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume1" volume="&tf.volume" buf=8]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume1" volume="&tf.volume" buf=9]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume1" volume="&tf.volume" buf=10]
+05:50:18 sound_init.ks : [endif]
+05:50:18 sound_init.ks : 
+05:50:18 sound_init.ks : [eval exp="tf.volume = sf.volume_master * sf.volume_voice * sf.volume_voice_chara[1] / 10"]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume" volume=100 buf=11]
+05:50:18 sound_init.ks : [eval exp="tf.volume = sf.volume_master * sf.volume_voice * sf.volume_voice_chara[2] / 10"]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume" volume=100 buf=12]
+05:50:18 sound_init.ks : [eval exp="tf.volume = sf.volume_master * sf.volume_voice * sf.volume_voice_chara[3] / 10"]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume" volume=100 buf=13]
+05:50:18 sound_init.ks : [eval exp="tf.volume = sf.volume_master * sf.volume_voice * sf.volume_voice_chara[4] / 10"]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume" volume=100 buf=14]
+05:50:18 sound_init.ks : [eval exp="tf.volume = sf.volume_master * sf.volume_voice * sf.volume_voice_chara[5] / 10"]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume" volume=100 buf=15]
+05:50:18 sound_init.ks : [eval exp="tf.volume = sf.volume_master * sf.volume_voice * sf.volume_voice_chara[6] / 10"]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume" volume=100 buf=16]
+05:50:18 sound_init.ks : [eval exp="tf.volume = sf.volume_master * sf.volume_voice * sf.volume_voice_chara[7] / 10"]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume" volume=100 buf=17]
+05:50:18 sound_init.ks : [eval exp="tf.volume = sf.volume_master * sf.volume_voice * sf.volume_voice_chara[8] / 10"]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume" volume=100 buf=18]
+05:50:18 sound_init.ks : 
+05:50:18 sound_init.ks : [return]
+05:50:18 ================================================================================
+05:50:18 Scenario loaded : first.ks
+05:50:18 first.ks : returned to : (start) line offset 13
+05:50:18 first.ks : call stack depth after returning : 0
+05:50:18 first.ks : [call storage="scenario/sys/macro_game.ks"]
+05:50:18 first.ks : call stack depth before calling : 0
+05:50:18 ================================================================================
+05:50:18 Scenario loaded : scenario/sys/macro_game.ks
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : [macro name="messageon"]
+05:50:18 macro_game.ks : [backlay]
+05:50:18 macro_game.ks : [image layer=50 storage="image/game/textbox.png" opacity="&sf.message_opa[sf.messe_window_opa]" page=back visible=true]
+05:50:18 macro_game.ks : [layopt layer=message10 page=back visible=true]
+05:50:18 macro_game.ks : [sysbtopt forevisible=false backvisible=true]
+05:50:18 macro_game.ks : [eval exp="f.messwin=1"]
+05:50:18 macro_game.ks : [trans time=%time|200 method=%method|crossfade]
+05:50:18 macro_game.ks : [wt canskip=%canskip|true]
+05:50:18 macro_game.ks : [current layer=message10]
+05:50:18 macro_game.ks : [endmacro]
+05:50:18 macro : messageon : [backlay][image layer=50 storage="image/game/textbox.png" opacity="&sf.message_opa[sf.messe_window_opa]" page=back visible=true][layopt layer=message10 page=back visible=true][sysbtopt forevisible=false backvisible=true][eval exp="f.messwin=1"][trans time=%time|200 method=%method|crossfade][wt canskip=%canskip|true][current layer=message10]
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : [macro name="messageoff"]
+05:50:18 macro_game.ks : [layopt layer=message11 page=fore visible=false]
+05:50:18 macro_game.ks : [current layer=message11][er]
+05:50:18 macro_game.ks : [backlay]
+05:50:18 macro_game.ks : [layopt layer=50 page=back visible=false]
+05:50:18 macro_game.ks : [layopt layer=message11 page=back visible=false]
+05:50:18 macro_game.ks : [layopt layer=message10 page=back visible=false]
+05:50:18 macro_game.ks : [sysbtopt forevisible=true backvisible=false]
+05:50:18 macro_game.ks : [eval exp="f.messwin=0"]
+05:50:18 macro_game.ks : [trans time=%time|200 method=%method|crossfade]
+05:50:18 macro_game.ks : [wt canskip=%canskip|true]
+05:50:18 macro_game.ks : [endmacro]
+05:50:18 macro : messageoff : [layopt layer=message11 page=fore visible=false][current layer=message11][er][backlay][layopt layer=50 page=back visible=false][layopt layer=message11 page=back visible=false][layopt layer=message10 page=back visible=false][sysbtopt forevisible=true backvisible=false][eval exp="f.messwin=0"][trans time=%time|200 method=%method|crossfade][wt canskip=%canskip|true]
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : [macro name="messnawon"]
+05:50:18 macro_game.ks : [layopt layer=50 visible=true]
+05:50:18 macro_game.ks : [layopt layer=message10 visible=true]
+05:50:18 macro_game.ks : [layopt layer=message11 visible=true]
+05:50:18 macro_game.ks : [eval exp="f.messwin=1"]
+05:50:18 macro_game.ks : [endmacro]
+05:50:18 macro : messnawon : [layopt layer=50 visible=true][layopt layer=message10 visible=true][layopt layer=message11 visible=true][eval exp="f.messwin=1"]
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : [macro name="messnawoff"]
+05:50:18 macro_game.ks : [layopt layer=50 visible=false]
+05:50:18 macro_game.ks : [layopt layer=message10 visible=false]
+05:50:18 macro_game.ks : [layopt layer=message11 visible=false]
+05:50:18 macro_game.ks : [eval exp="f.messwin=0"]
+05:50:18 macro_game.ks : [endmacro]
+05:50:18 macro : messnawoff : [layopt layer=50 visible=false][layopt layer=message10 visible=false][layopt layer=message11 visible=false][eval exp="f.messwin=0"]
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : [macro name="name"]
+05:50:18 macro_game.ks : [if exp="f.messwin==0 || f.messwin==void"]
+05:50:18 macro_game.ks : [messageon]
+05:50:18 macro_game.ks : [endif]
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : [history output=false]
+05:50:18 macro_game.ks : [current layer=message11]
+05:50:18 macro_game.ks : [layopt layer=message11 page=fore visible=true]
+05:50:18 macro_game.ks : [if exp="mp.src!='キミト' && mp.src!='緒乃ワサビ' && mp.src!='上都河希'"]
+05:50:18 macro_game.ks : [eval exp="f.name=1"]
+05:50:18 macro_game.ks : [locate x=-35 y=10]
+05:50:18 macro_game.ks : [button graphic= "image/game/voiceplay.png" exp="voiceplay()"]
+05:50:18 macro_game.ks : [endif]
+05:50:18 macro_game.ks : [current layer=message11]
+05:50:18 macro_game.ks : [locate x=0 y=0]
+05:50:18 macro_game.ks : [if exp="mp.src=='キミト' || mp.src=='緒乃ワサビ'  ||  mp.src=='上都河希'"]
+05:50:18 macro_game.ks : [font color=%color|0xffffff][ch text="&mp.src"]
+05:50:18 macro_game.ks : [history output=true]
+05:50:18 macro_game.ks : [eval exp="tf.src='@@'+ &mp.src +'@@'"]
+05:50:18 macro_game.ks : [htext text="&tf.src"]
+05:50:18 macro_game.ks : [elsif exp="mp.src=='赤髪の少女' || mp.src=='西崎' || mp.src=='由衣' || mp.n=='由衣'"]
+05:50:18 macro_game.ks : [font color=%color|0xff5a91]
+05:50:18 macro_game.ks : [ch text="&mp.src"]
+05:50:18 macro_game.ks : [history output=true]
+05:50:18 macro_game.ks : [eval exp="tf.src='@@'+ &mp.src +'@@'"]
+05:50:18 macro_game.ks : [htext text="&tf.src"]
+05:50:18 macro_game.ks : [himage graphic="image/backlog/Yui/yui_A"]
+05:50:18 macro_game.ks : [elsif exp="mp.src=='七ノ羽' || mp.n=='七ノ羽'"]
+05:50:18 macro_game.ks : [font color=%color|0x379afa][ch text="&mp.src"]
+05:50:18 macro_game.ks : [history output=true]
+05:50:18 macro_game.ks : [eval exp="tf.src='@@'+ &mp.src +'@@'"]
+05:50:18 macro_game.ks : [htext text="&tf.src"]
+05:50:18 macro_game.ks : [himage graphic="image/backlog/Nanoha/nano_A"]
+05:50:18 macro_game.ks : [elsif exp="mp.src=='真里奈' || mp.n=='真里奈'"]
+05:50:18 macro_game.ks : [font color=%color|0x70d65a][ch text="&mp.src"]
+05:50:18 macro_game.ks : [history output=true]
+05:50:18 macro_game.ks : [eval exp="tf.src='@@'+ &mp.src +'@@'"]
+05:50:18 macro_game.ks : [htext text="&tf.src"]
+05:50:18 macro_game.ks : [himage graphic="image/backlog/Marina/mari_A"]
+05:50:18 macro_game.ks : [elsif exp="mp.src=='時雨' || mp.n=='時雨'"]
+05:50:18 macro_game.ks : [font color=%color|0xffdf00][ch text="&mp.src"]
+05:50:18 macro_game.ks : [history output=true]
+05:50:18 macro_game.ks : [eval exp="tf.src='@@'+ &mp.src +'@@'"]
+05:50:18 macro_game.ks : [htext text="&tf.src"]
+05:50:18 macro_game.ks : [himage graphic="image/backlog/Shigure/shigu_A"]
+05:50:18 macro_game.ks : [elsif exp="mp.src=='夢の中の少女' || (mp.src=='？？？' && mp.n===void) || mp.src=='みこと'"]
+05:50:18 macro_game.ks : [font color=%color|0x5654d2]
+05:50:18 macro_game.ks : [ch text="&mp.src"]
+05:50:18 macro_game.ks : [history output=true]
+05:50:18 macro_game.ks : [eval exp="tf.src='@@'+ &mp.src +'@@'"]
+05:50:18 macro_game.ks : [htext text="&tf.src"]
+05:50:18 macro_game.ks : [himage graphic="image/backlog/Mikoto/miko_A"]
+05:50:18 macro_game.ks : [elsif exp="mp.src=='モモケン' || mp.src=='変な男' || mp.n=='モモケン'"]
+05:50:18 macro_game.ks : [font color=%color|0xfdbebc][ch text="&mp.src"]
+05:50:18 macro_game.ks : [history output=true]
+05:50:18 macro_game.ks : [eval exp="tf.src='@@'+ &mp.src +'@@'"]
+05:50:18 macro_game.ks : [htext text="&tf.src"]
+05:50:18 macro_game.ks : [himage graphic="image/backlog/Momoken/momo_A"]
+05:50:18 macro_game.ks : [else]
+05:50:18 macro_game.ks : [font color=%color|0xf3b37c][ch text="&mp.src"]
+05:50:18 macro_game.ks : [history output=true]
+05:50:18 macro_game.ks : [eval exp="tf.src='@@'+ &mp.src +'@@'"]
+05:50:18 macro_game.ks : [htext text="&tf.src"]
+05:50:18 macro_game.ks : [endif]
+05:50:18 macro_game.ks : [eval exp="f.cname = &mp.src"]
+05:50:18 macro_game.ks : [current layer=message10]
+05:50:18 macro_game.ks : [font color=0xffffff]
+05:50:18 macro_game.ks : [if exp="sf.labelcheck[f.labelnum]==1 && sf.fontcolor_text==1"]
+05:50:18 macro_game.ks : [font color=0xbbbbbb]
+05:50:18 macro_game.ks : [endif]
+05:50:18 macro_game.ks : [endmacro]
+05:50:18 macro : name : [if exp="f.messwin==0 || f.messwin==void"][messageon][endif][history output=false][current layer=message11][layopt layer=message11 page=fore visible=true][if exp="mp.src!='キミト' && mp.src!='緒乃ワサビ' && mp.src!='上都河希'"][eval exp="f.name=1"][locate x=-35 y=10][button graphic= "image/game/voiceplay.png" exp="voiceplay()"][endif][current layer=message11][locate x=0 y=0][if exp="mp.src=='キミト' || mp.src=='緒乃ワサビ'  ||  mp.src=='上都河希'"][font color=%color|0xffffff][ch text="&mp.src"][history output=true][eval exp="tf.src='@@'+ &mp.src +'@@'"][htext text="&tf.src"][elsif exp="mp.src=='赤髪の少女' || mp.src=='西崎' || mp.src=='由衣' || mp.n=='由衣'"][font color=%color|0xff5a91][ch text="&mp.src"][history output=true][eval exp="tf.src='@@'+ &mp.src +'@@'"][htext text="&tf.src"][himage graphic="image/backlog/Yui/yui_A"][elsif exp="mp.src=='七ノ羽' || mp.n=='七ノ羽'"][font color=%color|0x379afa][ch text="&mp.src"][history output=true][eval exp="tf.src='@@'+ &mp.src +'@@'"][htext text="&tf.src"][himage graphic="image/backlog/Nanoha/nano_A"][elsif exp="mp.src=='真里奈' || mp.n=='真里奈'"][font color=%color|0x70d65a][ch text="&mp.src"][history output=true][eval exp="tf.src='@@'+ &mp.src +'@@'"][htext text="&tf.src"][himage graphic="image/backlog/Marina/mari_A"][elsif exp="mp.src=='時雨' || mp.n=='時雨'"][font color=%color|0xffdf00][ch text="&mp.src"][history output=true][eval exp="tf.src='@@'+ &mp.src +'@@'"][htext text="&tf.src"][himage graphic="image/backlog/Shigure/shigu_A"][elsif exp="mp.src=='夢の中の少女' || (mp.src=='？？？' && mp.n===void) || mp.src=='みこと'"][font color=%color|0x5654d2][ch text="&mp.src"][history output=true][eval exp="tf.src='@@'+ &mp.src +'@@'"][htext text="&tf.src"][himage graphic="image/backlog/Mikoto/miko_A"][elsif exp="mp.src=='モモケン' || mp.src=='変な男' || mp.n=='モモケン'"][font color=%color|0xfdbebc][ch text="&mp.src"][history output=true][eval exp="tf.src='@@'+ &mp.src +'@@'"][htext text="&tf.src"][himage graphic="image/backlog/Momoken/momo_A"][else][font color=%color|0xf3b37c][ch text="&mp.src"][history output=true][eval exp="tf.src='@@'+ &mp.src +'@@'"][htext text="&tf.src"][endif][eval exp="f.cname = &mp.src"][current layer=message10][font color=0xffffff][if exp="sf.labelcheck[f.labelnum]==1 && sf.fontcolor_text==1"][font color=0xbbbbbb][endif]
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : [macro name="noname"]
+05:50:18 macro_game.ks : [layopt layer=message11 page=fore visible=false]
+05:50:18 macro_game.ks : [if exp="f.messwin==0 || f.messwin==void"]
+05:50:18 macro_game.ks : [messageon]
+05:50:18 macro_game.ks : [endif]
+05:50:18 macro_game.ks : [endmacro]
+05:50:18 macro : noname : [layopt layer=message11 page=fore visible=false][if exp="f.messwin==0 || f.messwin==void"][messageon][endif]
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : [macro name="lr"]
+05:50:18 macro_game.ks : [wf canskip=false buf=20 cond="kag.skipMode<=2 && f.play_now_buff!=''"]
+05:50:18 macro_game.ks : [ws  buf=20 canskip=true cond="kag.autoMode>=1 && sf.auto_voicewait==1"]
+05:50:18 macro_game.ks : [l]
+05:50:18 macro_game.ks : [r]
+05:50:18 macro_game.ks : [if exp="sf.voicecut==1 && kag.skipMode<=2"]
+05:50:18 macro_game.ks : [fadese buf=20 time=150 volume=0]
+05:50:18 macro_game.ks : [wf canskip=false buf=20 cond="f.play_now_buff!=''"]
+05:50:18 macro_game.ks : [wait time=10 canskip=false cond="f.play_now_buff!=''"]
+05:50:18 macro_game.ks : [stopse buf=20]
+05:50:18 macro_game.ks : [elsif exp="3 <= kag.skipMode"]
+05:50:18 macro_game.ks : [stopse buf=20]
+05:50:18 macro_game.ks : [endif]
+05:50:18 macro_game.ks : [wait time=10 canskip=false cond="kag.skipMode<=2"]
+05:50:18 macro_game.ks : [endmacro]
+05:50:18 macro : lr : [wf canskip=false buf=20 cond="kag.skipMode<=2 && f.play_now_buff!=''"][ws  buf=20 canskip=true cond="kag.autoMode>=1 && sf.auto_voicewait==1"][l][r][if exp="sf.voicecut==1 && kag.skipMode<=2"][fadese buf=20 time=150 volume=0][wf canskip=false buf=20 cond="f.play_now_buff!=''"][wait time=10 canskip=false cond="f.play_now_buff!=''"][stopse buf=20][elsif exp="3 <= kag.skipMode"][stopse buf=20][endif][wait time=10 canskip=false cond="kag.skipMode<=2"]
+05:50:18 macro_game.ks : [macro name="eh"]
+05:50:18 macro_game.ks : [cm]
+05:50:18 macro_game.ks : [noname]
+05:50:18 macro_game.ks : [eval exp="f.play_now_buff=''"]
+05:50:18 macro_game.ks : [eval exp="f.play_now_voice=''"]
+05:50:18 macro_game.ks : [eval exp="kag.se[20].volume=100"]
+05:50:18 macro_game.ks : [endmacro]
+05:50:18 macro : eh : [cm][noname][eval exp="f.play_now_buff=''"][eval exp="f.play_now_voice=''"][eval exp="kag.se[20].volume=100"]
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : [macro name="choice1"]
+05:50:18 macro_game.ks : [history enabled="true" output="false"]
+05:50:18 macro_game.ks : [eval exp="tf.target=mp.tar"]
+05:50:18 macro_game.ks : [eval exp="tf.text=mp.txt"]
+05:50:18 macro_game.ks : [eval exp="tf.text_length=tf.text.length"]
+05:50:18 macro_game.ks : [eval exp="tf.len= 640 - (tf.text_length * 28 / 2)"]
+05:50:18 macro_game.ks : [position layer=message20 page=fore visible=true]
+05:50:18 macro_game.ks : [current layer=message20]
+05:50:18 macro_game.ks : [locate x=&tf.len y=208]
+05:50:18 macro_game.ks : [nowait][emb exp="tf.text"]
+05:50:18 macro_game.ks : [position layer=message19 page=fore visible=true]
+05:50:18 macro_game.ks : [current layer=message19]
+05:50:18 macro_game.ks : [locate x=300 y=200]
+05:50:18 macro_game.ks : [button graphic="image/game/select_bar" target="&tf.target" exp="kag.fore.messages[19].visible=false, kag.fore.messages[20].visible=false, kag.historyWriteEnabled=true"]
+05:50:18 macro_game.ks : [endmacro]
+05:50:18 macro : choice1 : [history enabled="true" output="false"][eval exp="tf.target=mp.tar"][eval exp="tf.text=mp.txt"][eval exp="tf.text_length=tf.text.length"][eval exp="tf.len= 640 - (tf.text_length * 28 / 2)"][position layer=message20 page=fore visible=true][current layer=message20][locate x=&tf.len y=208][nowait][emb exp="tf.text"][position layer=message19 page=fore visible=true][current layer=message19][locate x=300 y=200][button graphic="image/game/select_bar" target="&tf.target" exp="kag.fore.messages[19].visible=false, kag.fore.messages[20].visible=false, kag.historyWriteEnabled=true"]
+05:50:18 macro_game.ks : [macro name="choice2"]
+05:50:18 macro_game.ks : [eval exp="tf.target=mp.tar"]
+05:50:18 macro_game.ks : [eval exp="tf.text=mp.txt"]
+05:50:18 macro_game.ks : [eval exp="tf.text_length=tf.text.length"]
+05:50:18 macro_game.ks : [eval exp="tf.len= 640 - (tf.text_length * 28 / 2)"]
+05:50:18 macro_game.ks : [current layer=message20]
+05:50:18 macro_game.ks : [locate x=&tf.len y=278]
+05:50:18 macro_game.ks : [nowait][emb exp="tf.text"]
+05:50:18 macro_game.ks : [current layer=message19]
+05:50:18 macro_game.ks : [locate x=300 y=270]
+05:50:18 macro_game.ks : [button graphic="image/game/select_bar" target="&tf.target" exp="kag.fore.messages[19].visible=false, kag.fore.messages[20].visible=false, kag.historyWriteEnabled=true"]
+05:50:18 macro_game.ks : [endmacro]
+05:50:18 macro : choice2 : [eval exp="tf.target=mp.tar"][eval exp="tf.text=mp.txt"][eval exp="tf.text_length=tf.text.length"][eval exp="tf.len= 640 - (tf.text_length * 28 / 2)"][current layer=message20][locate x=&tf.len y=278][nowait][emb exp="tf.text"][current layer=message19][locate x=300 y=270][button graphic="image/game/select_bar" target="&tf.target" exp="kag.fore.messages[19].visible=false, kag.fore.messages[20].visible=false, kag.historyWriteEnabled=true"]
+05:50:18 macro_game.ks : [macro name="choice3"]
+05:50:18 macro_game.ks : [eval exp="tf.target=mp.tar"]
+05:50:18 macro_game.ks : [eval exp="tf.text=mp.txt"]
+05:50:18 macro_game.ks : [eval exp="tf.text_length=tf.text.length"]
+05:50:18 macro_game.ks : [eval exp="tf.len= 640 - (tf.text_length * 28 / 2)"]
+05:50:18 macro_game.ks : [current layer=message20]
+05:50:18 macro_game.ks : [locate x=&tf.len y=348]
+05:50:18 macro_game.ks : [nowait][emb exp="tf.text"]
+05:50:18 macro_game.ks : [current layer=message19]
+05:50:18 macro_game.ks : [locate x=300 y=340]
+05:50:18 macro_game.ks : [button graphic="image/game/select_bar" target="&tf.target" exp="kag.fore.messages[19].visible=false, kag.fore.messages[20].visible=false, kag.historyWriteEnabled=true"]
+05:50:18 macro_game.ks : [endmacro]
+05:50:18 macro : choice3 : [eval exp="tf.target=mp.tar"][eval exp="tf.text=mp.txt"][eval exp="tf.text_length=tf.text.length"][eval exp="tf.len= 640 - (tf.text_length * 28 / 2)"][current layer=message20][locate x=&tf.len y=348][nowait][emb exp="tf.text"][current layer=message19][locate x=300 y=340][button graphic="image/game/select_bar" target="&tf.target" exp="kag.fore.messages[19].visible=false, kag.fore.messages[20].visible=false, kag.historyWriteEnabled=true"]
+05:50:18 macro_game.ks : [macro name="choice4"]
+05:50:18 macro_game.ks : [eval exp="tf.target=mp.tar"]
+05:50:18 macro_game.ks : [eval exp="tf.text=mp.txt"]
+05:50:18 macro_game.ks : [eval exp="tf.text_length=tf.text.length"]
+05:50:18 macro_game.ks : [eval exp="tf.len= 640 - (tf.text_length * 28 / 2)"]
+05:50:18 macro_game.ks : [current layer=message20]
+05:50:18 macro_game.ks : [locate x=&tf.len y=418]
+05:50:18 macro_game.ks : [nowait][emb exp="tf.text"]
+05:50:18 macro_game.ks : [current layer=message19]
+05:50:18 macro_game.ks : [locate x=300 y=410]
+05:50:18 macro_game.ks : [button graphic="image/game/select_bar" target="&tf.target" exp="kag.fore.messages[19].visible=false, kag.fore.messages[20].visible=false, kag.historyWriteEnabled=true"]
+05:50:18 macro_game.ks : [endmacro]
+05:50:18 macro : choice4 : [eval exp="tf.target=mp.tar"][eval exp="tf.text=mp.txt"][eval exp="tf.text_length=tf.text.length"][eval exp="tf.len= 640 - (tf.text_length * 28 / 2)"][current layer=message20][locate x=&tf.len y=418][nowait][emb exp="tf.text"][current layer=message19][locate x=300 y=410][button graphic="image/game/select_bar" target="&tf.target" exp="kag.fore.messages[19].visible=false, kag.fore.messages[20].visible=false, kag.historyWriteEnabled=true"]
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : [macro name="choice5"]
+05:50:18 macro_game.ks : [eval exp="tf.target=mp.tar"]
+05:50:18 macro_game.ks : [eval exp="tf.text=mp.txt"]
+05:50:18 macro_game.ks : [eval exp="tf.text_length=tf.text.length"]
+05:50:18 macro_game.ks : [eval exp="tf.len= 640 - (tf.text_length * 28 / 2)"]
+05:50:18 macro_game.ks : [current layer=message20]
+05:50:18 macro_game.ks : [locate x=&tf.len y=488]
+05:50:18 macro_game.ks : [nowait][emb exp="tf.text"]
+05:50:18 macro_game.ks : [current layer=message19]
+05:50:18 macro_game.ks : [locate x=300 y=480]
+05:50:18 macro_game.ks : [button graphic="image/game/select_bar" target="&tf.target" exp="kag.fore.messages[19].visible=false, kag.fore.messages[20].visible=false, kag.historyWriteEnabled=true"]
+05:50:18 macro_game.ks : [endmacro]
+05:50:18 macro : choice5 : [eval exp="tf.target=mp.tar"][eval exp="tf.text=mp.txt"][eval exp="tf.text_length=tf.text.length"][eval exp="tf.len= 640 - (tf.text_length * 28 / 2)"][current layer=message20][locate x=&tf.len y=488][nowait][emb exp="tf.text"][current layer=message19][locate x=300 y=480][button graphic="image/game/select_bar" target="&tf.target" exp="kag.fore.messages[19].visible=false, kag.fore.messages[20].visible=false, kag.historyWriteEnabled=true"]
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : [macro name="bg"]
+05:50:18 macro_game.ks : [eval exp="f.bgpath='bg/'+mp.src"]
+05:50:18 macro_game.ks : [if exp="f.fade!=1"]
+05:50:18 macro_game.ks : [backlay]
+05:50:18 macro_game.ks : [image layer=%layer|base storage=&f.bgpath page=back]
+05:50:18 macro_game.ks : [trans layer=%layer|base time=%time|1000 method=%method|crossfade from=%from rule=%rule cond="kag.skipMode <= 2"]
+05:50:18 macro_game.ks : [trans layer=%layer|base time=200 method=%method|crossfade from=%from rule=%rule cond="3 <= kag.skipMode"]
+05:50:18 macro_game.ks : [wt canskip=%canskip|true cond="kag.skipMode <= 2"]
+05:50:18 macro_game.ks : [wt canskip=false cond="3 <= kag.skipMode"]
+05:50:18 macro_game.ks : [endif]
+05:50:18 macro_game.ks : [endmacro]
+05:50:18 macro : bg : [eval exp="f.bgpath='bg/'+mp.src"][if exp="f.fade!=1"][backlay][image layer=%layer|base storage=&f.bgpath page=back][trans layer=%layer|base time=%time|1000 method=%method|crossfade from=%from rule=%rule cond="kag.skipMode <= 2"][trans layer=%layer|base time=200 method=%method|crossfade from=%from rule=%rule cond="3 <= kag.skipMode"][wt canskip=%canskip|true cond="kag.skipMode <= 2"][wt canskip=false cond="3 <= kag.skipMode"][endif]
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : [macro name="cg"]
+05:50:18 macro_game.ks : [eval exp="f.bgpath='CG/'+mp.src"]
+05:50:18 macro_game.ks : @eval exp="flagcg(mp)"
+05:50:18 macro_game.ks : @eval exp="flagnanoha(mp)"
+05:50:18 macro_game.ks : @eval exp="flagmarina(mp)"
+05:50:18 macro_game.ks : @eval exp="flagshigure(mp)"
+05:50:18 macro_game.ks : @eval exp="flagmikoto(mp)"
+05:50:18 macro_game.ks : @eval exp="flagother(mp)"
+05:50:18 macro_game.ks : [if exp="f.fade!=1"]
+05:50:18 macro_game.ks : [backlay]
+05:50:18 macro_game.ks : [image layer=%layer|base storage=&f.bgpath page=back]
+05:50:18 macro_game.ks : [trans layer=%layer|base time=%time|1000 method=%method|crossfade from=%from rule=%rule cond="kag.skipMode <= 2"]
+05:50:18 macro_game.ks : [trans layer=%layer|base time=200 method=%method|crossfade from=%from rule=%rule cond="3 <= kag.skipMode"]
+05:50:18 macro_game.ks : [wt canskip=%canskip|true cond="kag.skipMode <= 2"]
+05:50:18 macro_game.ks : [wt canskip=false cond="3 <= kag.skipMode"]
+05:50:18 macro_game.ks : [endif]
+05:50:18 macro_game.ks : [endmacro]
+05:50:18 macro : cg : [eval exp="f.bgpath='CG/'+mp.src"][eval exp="flagcg(mp)"][eval exp="flagnanoha(mp)"][eval exp="flagmarina(mp)"][eval exp="flagshigure(mp)"][eval exp="flagmikoto(mp)"][eval exp="flagother(mp)"][if exp="f.fade!=1"][backlay][image layer=%layer|base storage=&f.bgpath page=back][trans layer=%layer|base time=%time|1000 method=%method|crossfade from=%from rule=%rule cond="kag.skipMode <= 2"][trans layer=%layer|base time=200 method=%method|crossfade from=%from rule=%rule cond="3 <= kag.skipMode"][wt canskip=%canskip|true cond="kag.skipMode <= 2"][wt canskip=false cond="3 <= kag.skipMode"][endif]
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : [macro name="chara"]
+05:50:18 macro_game.ks : [backlay]
+05:50:18 macro_game.ks : [eval exp="tf.base='fg/'+mp.base"]
+05:50:18 macro_game.ks : [if exp="'c'==mp.pos"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=17, tf.left=123, tf.top=0"]
+05:50:18 macro_game.ks : [eval exp="tf.left=mp.left" cond="mp.left"]
+05:50:18 macro_game.ks : [eval exp="tf.top=mp.top" cond="mp.top"]
+05:50:18 macro_game.ks : [image storage=&tf.base layer=&tf.layer left=%left|123 top=%top|0 page=back visible=%visible|true fliplr=%fliplr|false rgamma=&tf.rgamma rceil=&tf.rceil gceil=&tf.gceil bceil=&tf.bceil]
+05:50:18 macro_game.ks : [elsif exp="'cl'==mp.pos"]
+05:50:18 macro_game.ks : [eval exp="tf.layer = 16,tf.left=-45,tf.top=10"]
+05:50:18 macro_game.ks : [eval exp="tf.left=mp.left" cond="mp.left"]
+05:50:18 macro_game.ks : [eval exp="tf.top=mp.top" cond="mp.top"]
+05:50:18 macro_game.ks : [image storage=&tf.base layer=&tf.layer left=%left|-45 top=%top|0 page=back visible=%visible|true fliplr=%fliplr|false rgamma=&tf.rgamma rceil=&tf.rceil gceil=&tf.gceil bceil=&tf.bceil]
+05:50:18 macro_game.ks : [elsif exp="'cr'==mp.pos"]
+05:50:18 macro_game.ks : [eval exp="tf.layer = 15,tf.left=291,tf.top=10"]
+05:50:18 macro_game.ks : [eval exp="tf.left=mp.left" cond="mp.left"]
+05:50:18 macro_game.ks : [eval exp="tf.top=mp.top" cond="mp.top"]
+05:50:18 macro_game.ks : [image storage=&tf.base layer=&tf.layer left=%left|291 top=%top|0 page=back visible=%visible|true fliplr=%fliplr|false rgamma=&tf.rgamma rceil=&tf.rceil gceil=&tf.gceil bceil=&tf.bceil]
+05:50:18 macro_game.ks : [elsif exp="'l'==mp.pos"]
+05:50:18 macro_game.ks : [eval exp="tf.layer = 14,tf.left=-237,tf.top=10"]
+05:50:18 macro_game.ks : [eval exp="tf.left=mp.left" cond="mp.left"]
+05:50:18 macro_game.ks : [eval exp="tf.top=mp.top" cond="mp.top"]
+05:50:18 macro_game.ks : [image storage=&tf.base layer=&tf.layer left=%left|-237 top=%top|0 page=back visible=%visible|true fliplr=%fliplr|false rgamma=&tf.rgamma rceil=&tf.rceil gceil=&tf.gceil bceil=&tf.bceil]
+05:50:18 macro_game.ks : [elsif exp="'r'==mp.pos"]
+05:50:18 macro_game.ks : [eval exp="tf.layer = 13,tf.left=483,tf.top=10"]
+05:50:18 macro_game.ks : [eval exp="tf.left=mp.left" cond="mp.left"]
+05:50:18 macro_game.ks : [eval exp="tf.top=mp.top" cond="mp.top"]
+05:50:18 macro_game.ks : [image storage=&tf.base layer=&tf.layer left=%left|483 top=%top|0 page=back visible=%visible|true fliplr=%fliplr|false rgamma=&tf.rgamma rceil=&tf.rceil gceil=&tf.gceil bceil=&tf.bceil]
+05:50:18 macro_game.ks : [elsif exp="'ll'==mp.pos"]
+05:50:18 macro_game.ks : [eval exp="tf.layer = 12,tf.left=-371,tf.top=10"]
+05:50:18 macro_game.ks : [eval exp="tf.left=mp.left" cond="mp.left"]
+05:50:18 macro_game.ks : [eval exp="tf.top=mp.top" cond="mp.top"]
+05:50:18 macro_game.ks : [image storage=&tf.base layer=&tf.layer left=%left|-371 top=%top|0 page=back visible=%visible|true fliplr=%fliplr|false rgamma=&tf.rgamma rceil=&tf.rceil gceil=&tf.gceil bceil=&tf.bceil]
+05:50:18 macro_game.ks : [elsif exp="'rr'==mp.pos"]
+05:50:18 macro_game.ks : [eval exp="tf.layer = 11,tf.left=617,tf.top=10"]
+05:50:18 macro_game.ks : [eval exp="tf.left=mp.left" cond="mp.left"]
+05:50:18 macro_game.ks : [eval exp="tf.top=mp.top" cond="mp.top"]
+05:50:18 macro_game.ks : [image storage=&tf.base layer=&tf.layer left=%left|617 top=%top|0 page=back visible=%visible|true fliplr=%fliplr|false rgamma=&tf.rgamma rceil=&tf.rceil gceil=&tf.gceil bceil=&tf.bceil]
+05:50:18 macro_game.ks : [endif]
+05:50:18 macro_game.ks : [eval exp="tf.face='fg/'+mp.face"]
+05:50:18 macro_game.ks : [pimage storage=&tf.face dx=0 dy=0 layer=&tf.layer page=back]
+05:50:18 macro_game.ks : [if exp="mp.emo!=void"]
+05:50:18 macro_game.ks : [eval exp="tf.emo='fg/'+mp.emo"]
+05:50:18 macro_game.ks : [pimage storage=&tf.emo dx=0 dy=0 layer=&tf.layer page=back]
+05:50:18 macro_game.ks : [else]
+05:50:18 macro_game.ks : [eval exp="tf.emo=void"]
+05:50:18 macro_game.ks : [endif]
+05:50:18 macro_game.ks : [eval exp="tf.chara=mp.chara"]
+05:50:18 macro_game.ks : [if exp="tf.chara=='真里奈'"]
+05:50:18 macro_game.ks : [eval exp="f.marina1=&tf.layer"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='由衣'"]
+05:50:18 macro_game.ks : [eval exp="f.yui1=&tf.layer"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='七ノ羽'"]
+05:50:18 macro_game.ks : [eval exp="f.nanoha1=&tf.layer"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='時雨'"]
+05:50:18 macro_game.ks : [eval exp="f.shigure1=&tf.layer"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='モモケン'"]
+05:50:18 macro_game.ks : [eval exp="f.momoken1=&tf.layer"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='ミコト'"]
+05:50:18 macro_game.ks : [eval exp="f.mikoto1=&tf.layer"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='ドミトリー'"]
+05:50:18 macro_game.ks : [eval exp="f.domitori1=&tf.layer"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='ミキ'"]
+05:50:18 macro_game.ks : [eval exp="f.miki1=&tf.layer"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='あかね'"]
+05:50:18 macro_game.ks : [eval exp="f.akane1=&tf.layer"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='カズキ'"]
+05:50:18 macro_game.ks : [eval exp="f.kazuki1=&tf.layer"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='コウキ'"]
+05:50:18 macro_game.ks : [eval exp="f.kouki1=&tf.layer"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='千明'"]
+05:50:18 macro_game.ks : [eval exp="f.tiaki1=&tf.layer"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='睦月'"]
+05:50:18 macro_game.ks : [eval exp="f.mutuki1=&tf.layer"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='千歳'"]
+05:50:18 macro_game.ks : [eval exp="f.titose1=&tf.layer"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='美咲'"]
+05:50:18 macro_game.ks : [eval exp="f.misaki1=&tf.layer"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='柊父'"]
+05:50:18 macro_game.ks : [eval exp="f.hiragi1=&tf.layer"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='カスミ'"]
+05:50:18 macro_game.ks : [eval exp="f.kasumi1=&tf.layer"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='ハナ'"]
+05:50:18 macro_game.ks : [eval exp="f.hana1=&tf.layer"]
+05:50:18 macro_game.ks : [endif]
+05:50:18 macro_game.ks : [trans time=%time|180 method=%method|crossfade]
+05:50:18 macro_game.ks : [wt canskip=%canskip|true]
+05:50:18 macro_game.ks : [if exp="mp.mov=='on'"]
+05:50:18 macro_game.ks : [eval exp="tf.opa=255"]
+05:50:18 macro_game.ks : [eval exp="tf.top=+&tf.top,&tf.letf=+&tf.left"]
+05:50:18 macro_game.ks : [move layer=&tf.layer time=300 path = '&@"(${tf.left},${tf.top},${tf.opa})(${tf.left},${tf.top+18},${tf.opa})"' accel = -3]
+05:50:18 macro_game.ks : [wait time =240]
+05:50:18 macro_game.ks : [move layer=&tf.layer time=400 path = '&@"(${tf.left},${tf.top+18},${tf.opa})(${tf.left},${tf.top},${tf.opa})"' accel = -3]
+05:50:18 macro_game.ks : [elsif exp="mp.mov=='left'"]
+05:50:18 macro_game.ks : [eval exp="tf.opa=255"]
+05:50:18 macro_game.ks : [eval exp="tf.top=+&tf.top,&tf.letf=+&tf.left"]
+05:50:18 macro_game.ks : [move layer=&tf.layer time=1000 path = '&@"(${tf.left},${tf.top},${tf.opa})(${tf.left-400},${tf.top},${tf.opa})"' accel = -3]
+05:50:18 macro_game.ks : [elsif exp="mp.mov=='right'"]
+05:50:18 macro_game.ks : [eval exp="tf.opa=255"]
+05:50:18 macro_game.ks : [eval exp="tf.top=+&tf.top,&tf.letf=+&tf.left"]
+05:50:18 macro_game.ks : [move layer=&tf.layer time=1000 path = '&@"(${tf.left},${tf.top},${tf.opa})(${tf.left+400},${tf.top},${tf.opa})"' accel = -3]
+05:50:18 macro_game.ks : [endif]
+05:50:18 macro_game.ks : [endmacro]
+05:50:18 macro : chara : [backlay][eval exp="tf.base='fg/'+mp.base"][if exp="'c'==mp.pos"][eval exp="tf.layer=17, tf.left=123, tf.top=0"][eval exp="tf.left=mp.left" cond="mp.left"][eval exp="tf.top=mp.top" cond="mp.top"][image storage=&tf.base layer=&tf.layer left=%left|123 top=%top|0 page=back visible=%visible|true fliplr=%fliplr|false rgamma=&tf.rgamma rceil=&tf.rceil gceil=&tf.gceil bceil=&tf.bceil][elsif exp="'cl'==mp.pos"][eval exp="tf.layer = 16,tf.left=-45,tf.top=10"][eval exp="tf.left=mp.left" cond="mp.left"][eval exp="tf.top=mp.top" cond="mp.top"][image storage=&tf.base layer=&tf.layer left=%left|-45 top=%top|0 page=back visible=%visible|true fliplr=%fliplr|false rgamma=&tf.rgamma rceil=&tf.rceil gceil=&tf.gceil bceil=&tf.bceil][elsif exp="'cr'==mp.pos"][eval exp="tf.layer = 15,tf.left=291,tf.top=10"][eval exp="tf.left=mp.left" cond="mp.left"][eval exp="tf.top=mp.top" cond="mp.top"][image storage=&tf.base layer=&tf.layer left=%left|291 top=%top|0 page=back visible=%visible|true fliplr=%fliplr|false rgamma=&tf.rgamma rceil=&tf.rceil gceil=&tf.gceil bceil=&tf.bceil][elsif exp="'l'==mp.pos"][eval exp="tf.layer = 14,tf.left=-237,tf.top=10"][eval exp="tf.left=mp.left" cond="mp.left"][eval exp="tf.top=mp.top" cond="mp.top"][image storage=&tf.base layer=&tf.layer left=%left|-237 top=%top|0 page=back visible=%visible|true fliplr=%fliplr|false rgamma=&tf.rgamma rceil=&tf.rceil gceil=&tf.gceil bceil=&tf.bceil][elsif exp="'r'==mp.pos"][eval exp="tf.layer = 13,tf.left=483,tf.top=10"][eval exp="tf.left=mp.left" cond="mp.left"][eval exp="tf.top=mp.top" cond="mp.top"][image storage=&tf.base layer=&tf.layer left=%left|483 top=%top|0 page=back visible=%visible|true fliplr=%fliplr|false rgamma=&tf.rgamma rceil=&tf.rceil gceil=&tf.gceil bceil=&tf.bceil][elsif exp="'ll'==mp.pos"][eval exp="tf.layer = 12,tf.left=-371,tf.top=10"][eval exp="tf.left=mp.left" cond="mp.left"][eval exp="tf.top=mp.top" cond="mp.top"][image storage=&tf.base layer=&tf.layer left=%left|-371 top=%top|0 page=back visible=%visible|true fliplr=%fliplr|false rgamma=&tf.rgamma rceil=&tf.rceil gceil=&tf.gceil bceil=&tf.bceil][elsif exp="'rr'==mp.pos"][eval exp="tf.layer = 11,tf.left=617,tf.top=10"][eval exp="tf.left=mp.left" cond="mp.left"][eval exp="tf.top=mp.top" cond="mp.top"][image storage=&tf.base layer=&tf.layer left=%left|617 top=%top|0 page=back visible=%visible|true fliplr=%fliplr|false rgamma=&tf.rgamma rceil=&tf.rceil gceil=&tf.gceil bceil=&tf.bceil][endif][eval exp="tf.face='fg/'+mp.face"][pimage storage=&tf.face dx=0 dy=0 layer=&tf.layer page=back][if exp="mp.emo!=void"][eval exp="tf.emo='fg/'+mp.emo"][pimage storage=&tf.emo dx=0 dy=0 layer=&tf.layer page=back][else][eval exp="tf.emo=void"][endif][eval exp="tf.chara=mp.chara"][if exp="tf.chara=='真里奈'"][eval exp="f.marina1=&tf.layer"][elsif exp="tf.chara=='由衣'"][eval exp="f.yui1=&tf.layer"][elsif exp="tf.chara=='七ノ羽'"][eval exp="f.nanoha1=&tf.layer"][elsif exp="tf.chara=='時雨'"][eval exp="f.shigure1=&tf.layer"][elsif exp="tf.chara=='モモケン'"][eval exp="f.momoken1=&tf.layer"][elsif exp="tf.chara=='ミコト'"][eval exp="f.mikoto1=&tf.layer"][elsif exp="tf.chara=='ドミトリー'"][eval exp="f.domitori1=&tf.layer"][elsif exp="tf.chara=='ミキ'"][eval exp="f.miki1=&tf.layer"][elsif exp="tf.chara=='あかね'"][eval exp="f.akane1=&tf.layer"][elsif exp="tf.chara=='カズキ'"][eval exp="f.kazuki1=&tf.layer"][elsif exp="tf.chara=='コウキ'"][eval exp="f.kouki1=&tf.layer"][elsif exp="tf.chara=='千明'"][eval exp="f.tiaki1=&tf.layer"][elsif exp="tf.chara=='睦月'"][eval exp="f.mutuki1=&tf.layer"][elsif exp="tf.chara=='千歳'"][eval exp="f.titose1=&tf.layer"][elsif exp="tf.chara=='美咲'"][eval exp="f.misaki1=&tf.layer"][elsif exp="tf.chara=='柊父'"][eval exp="f.hiragi1=&tf.layer"][elsif exp="tf.chara=='カスミ'"][eval exp="f.kasumi1=&tf.layer"][elsif exp="tf.chara=='ハナ'"][eval exp="f.hana1=&tf.layer"][endif][trans time=%time|180 method=%method|crossfade][wt canskip=%canskip|true][if exp="mp.mov=='on'"][eval exp="tf.opa=255"][eval exp="tf.top=+&tf.top,&tf.letf=+&tf.left"][move layer=&tf.layer time=300 path = '&@"(${tf.left},${tf.top},${tf.opa})(${tf.left},${tf.top+18},${tf.opa})"' accel = -3][wait time =240][move layer=&tf.layer time=400 path = '&@"(${tf.left},${tf.top+18},${tf.opa})(${tf.left},${tf.top},${tf.opa})"' accel = -3][elsif exp="mp.mov=='left'"][eval exp="tf.opa=255"][eval exp="tf.top=+&tf.top,&tf.letf=+&tf.left"][move layer=&tf.layer time=1000 path = '&@"(${tf.left},${tf.top},${tf.opa})(${tf.left-400},${tf.top},${tf.opa})"' accel = -3][elsif exp="mp.mov=='right'"][eval exp="tf.opa=255"][eval exp="tf.top=+&tf.top,&tf.letf=+&tf.left"][move layer=&tf.layer time=1000 path = '&@"(${tf.left},${tf.top},${tf.opa})(${tf.left+400},${tf.top},${tf.opa})"' accel = -3][endif]
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : [macro name="noch"]
+05:50:18 macro_game.ks : [backlay]
+05:50:18 macro_game.ks : [if exp="'c'==mp.pos"]
+05:50:18 macro_game.ks : [freeimage layer=17 page=back]
+05:50:18 macro_game.ks : [elsif exp="'cl'==mp.pos"]
+05:50:18 macro_game.ks : [freeimage layer=16 page=back]
+05:50:18 macro_game.ks : [elsif exp="'cr'==mp.pos"]
+05:50:18 macro_game.ks : [freeimage layer=15 page=back]
+05:50:18 macro_game.ks : [elsif exp="'l'==mp.pos"]
+05:50:18 macro_game.ks : [freeimage layer=14 page=back]
+05:50:18 macro_game.ks : [elsif exp="'r'==mp.pos"]
+05:50:18 macro_game.ks : [freeimage layer=13 page=back]
+05:50:18 macro_game.ks : [elsif exp="'ll'==mp.pos"]
+05:50:18 macro_game.ks : [freeimage layer=12 page=back]
+05:50:18 macro_game.ks : [elsif exp="'rr'==mp.pos"]
+05:50:18 macro_game.ks : [freeimage layer=11 page=back]
+05:50:18 macro_game.ks : [elsif exp="mp.pos==void"]
+05:50:18 macro_game.ks : [freeimage layer=17 page=back]
+05:50:18 macro_game.ks : [freeimage layer=16 page=back]
+05:50:18 macro_game.ks : [freeimage layer=15 page=back]
+05:50:18 macro_game.ks : [freeimage layer=14 page=back]
+05:50:18 macro_game.ks : [freeimage layer=13 page=back]
+05:50:18 macro_game.ks : [freeimage layer=12 page=back]
+05:50:18 macro_game.ks : [freeimage layer=11 page=back]
+05:50:18 macro_game.ks : [endif]
+05:50:18 macro_game.ks : [trans time=%time|250 method=%method|crossfade]
+05:50:18 macro_game.ks : [wt canskip=%canskip|true]
+05:50:18 macro_game.ks : [endmacro]
+05:50:18 macro : noch : [backlay][if exp="'c'==mp.pos"][freeimage layer=17 page=back][elsif exp="'cl'==mp.pos"][freeimage layer=16 page=back][elsif exp="'cr'==mp.pos"][freeimage layer=15 page=back][elsif exp="'l'==mp.pos"][freeimage layer=14 page=back][elsif exp="'r'==mp.pos"][freeimage layer=13 page=back][elsif exp="'ll'==mp.pos"][freeimage layer=12 page=back][elsif exp="'rr'==mp.pos"][freeimage layer=11 page=back][elsif exp="mp.pos==void"][freeimage layer=17 page=back][freeimage layer=16 page=back][freeimage layer=15 page=back][freeimage layer=14 page=back][freeimage layer=13 page=back][freeimage layer=12 page=back][freeimage layer=11 page=back][endif][trans time=%time|250 method=%method|crossfade][wt canskip=%canskip|true]
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : [macro name="bgm"]
+05:50:18 macro_game.ks : [eval exp="f.volume_bgm_ducking=100"]
+05:50:18 macro_game.ks : [eval exp="tf.bgm_src='sound/bgm/'+ mp.src"]
+05:50:18 macro_game.ks : [eval exp="sf.music_flag[music.music_storage.find('sound/bgm/'+mp.src)] = true"]
+05:50:18 macro_game.ks : [eval exp="kag.bgm.setOptions(%['volume'=>f.volume_bgm_ducking]);"]
+05:50:18 macro_game.ks : [playbgm storage=&tf.bgm_src cond="mp.time==0 || mp.time===void || 3<=kag.skipMode"]
+05:50:18 macro_game.ks : [fadeinbgm storage=&tf.bgm_src time=%time|1000 cond="kag.skipMode<=2 && mp.time!=0 && 10<= mp.time"]
+05:50:18 macro_game.ks : [wb canskip=%canskip|false cond="kag.skipMode<=2 && mp.time!=0"]
+05:50:18 macro_game.ks : [endmacro]
+05:50:18 macro : bgm : [eval exp="f.volume_bgm_ducking=100"][eval exp="tf.bgm_src='sound/bgm/'+ mp.src"][eval exp="sf.music_flag[music.music_storage.find('sound/bgm/'+mp.src)] = true"][eval exp="kag.bgm.setOptions(%['volume'=>f.volume_bgm_ducking]);"][playbgm storage=&tf.bgm_src cond="mp.time==0 || mp.time===void || 3<=kag.skipMode"][fadeinbgm storage=&tf.bgm_src time=%time|1000 cond="kag.skipMode<=2 && mp.time!=0 && 10<= mp.time"][wb canskip=%canskip|false cond="kag.skipMode<=2 && mp.time!=0"]
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : [macro name="bgmout"]
+05:50:18 macro_game.ks : [eval exp="f.volume_bgm_ducking=0"]
+05:50:18 macro_game.ks : [fadeoutbgm time=%time|1500 cond="kag.skipMode <= 2"]
+05:50:18 macro_game.ks : [wb canskip=%canskip|false cond="mp.wait==true && kag.skipMode<=2"]
+05:50:18 macro_game.ks : [fadeoutbgm time=%time|100 cond="3<=kag.skipMode"]
+05:50:18 macro_game.ks : [wb canskip=%canskip|false cond="3<=kag.skipMode"]
+05:50:18 macro_game.ks : [endmacro]
+05:50:18 macro : bgmout : [eval exp="f.volume_bgm_ducking=0"][fadeoutbgm time=%time|1500 cond="kag.skipMode <= 2"][wb canskip=%canskip|false cond="mp.wait==true && kag.skipMode<=2"][fadeoutbgm time=%time|100 cond="3<=kag.skipMode"][wb canskip=%canskip|false cond="3<=kag.skipMode"]
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : [macro name="se"]
+05:50:18 macro_game.ks : [eval exp="tf.se_src='sound/se/' + mp.src"]
+05:50:18 macro_game.ks : [fadeinse buf=21 storage=&tf.se_src time=%time|150 loop=%loop|false]
+05:50:18 macro_game.ks : [endmacro]
+05:50:18 macro : se : [eval exp="tf.se_src='sound/se/' + mp.src"][fadeinse buf=21 storage=&tf.se_src time=%time|150 loop=%loop|false]
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : [macro name="v"]
+05:50:18 macro_game.ks : [eval exp="f.play_now_buff=mp.buf,f.play_now_voice='sound/voice/'+mp.src"]
+05:50:18 macro_game.ks : [if exp="tf.buf!=void"]
+05:50:18 macro_game.ks : [fadeoutse buf=20 time=150]
+05:50:18 macro_game.ks : [endif]
+05:50:18 macro_game.ks : [eval exp="tf.buf=mp.buf, tf.src=mp.src"]
+05:50:18 macro_game.ks : [eval exp="tf.vpath='sound/voice/'+mp.src"]
+05:50:18 macro_game.ks : [eval exp="kag.se[20].volume2=kag.se[tf.buf].volume2;"]
+05:50:18 macro_game.ks : [eval exp="kag.se[20].volume=100;"]
+05:50:18 macro_game.ks : [fadeinse  storage="&tf.vpath" buf=20 time=150 cond="kag.skipMode<=2"]
+05:50:18 macro_game.ks : [endmacro]
+05:50:18 macro : v : [eval exp="f.play_now_buff=mp.buf,f.play_now_voice='sound/voice/'+mp.src"][if exp="tf.buf!=void"][fadeoutse buf=20 time=150][endif][eval exp="tf.buf=mp.buf, tf.src=mp.src"][eval exp="tf.vpath='sound/voice/'+mp.src"][eval exp="kag.se[20].volume2=kag.se[tf.buf].volume2;"][eval exp="kag.se[20].volume=100;"][fadeinse  storage="&tf.vpath" buf=20 time=150 cond="kag.skipMode<=2"]
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : [macro name="endvoice"]
+05:50:18 macro_game.ks : [endmacro]
+05:50:18 macro : endvoice : 
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : [macro name="date"]
+05:50:18 macro_game.ks : [eval exp="tf.date='image/sprite/date_0'+mp.img+'.png'"]
+05:50:18 macro_game.ks : [image layer=32 storage="image/game/opacity.png" visible=true]
+05:50:18 macro_game.ks : [backlay]
+05:50:18 macro_game.ks : [image layer=32 storage=&tf.date visible=true page=back]
+05:50:18 macro_game.ks : [trans layer=32 time=500 method=crossfade]
+05:50:18 macro_game.ks : [wt]
+05:50:18 macro_game.ks : [wait time=1000 canskip=false]
+05:50:18 macro_game.ks : [freeimage layer=32]
+05:50:18 macro_game.ks : [endmacro]
+05:50:18 macro : date : [eval exp="tf.date='image/sprite/date_0'+mp.img+'.png'"][image layer=32 storage="image/game/opacity.png" visible=true][backlay][image layer=32 storage=&tf.date visible=true page=back][trans layer=32 time=500 method=crossfade][wt][wait time=1000 canskip=false][freeimage layer=32]
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : [macro name="fadein"]
+05:50:18 macro_game.ks : [backlay]
+05:50:18 macro_game.ks : [image layer=%layer|base storage=&f.bgpath page=back]
+05:50:18 macro_game.ks : [trans layer=%layer|base time=%time|1000 method=%method|crossfade from=%from rule=%rule cond="kag.skipMode <= 2"]
+05:50:18 macro_game.ks : [wt canskip=%canskip|true cond="kag.skipMode <= 2"]
+05:50:18 macro_game.ks : [trans layer=%layer|base time=%time|150 method=%method|crossfade from=%from rule=%rule cond="3 <= kag.skipMode"]
+05:50:18 macro_game.ks : [wt canskip=%canskip|true cond="3 <= kag.skipMode"]
+05:50:18 macro_game.ks : [eval exp="f.fade=0"]
+05:50:18 macro_game.ks : [endmacro]
+05:50:18 macro : fadein : [backlay][image layer=%layer|base storage=&f.bgpath page=back][trans layer=%layer|base time=%time|1000 method=%method|crossfade from=%from rule=%rule cond="kag.skipMode <= 2"][wt canskip=%canskip|true cond="kag.skipMode <= 2"][trans layer=%layer|base time=%time|150 method=%method|crossfade from=%from rule=%rule cond="3 <= kag.skipMode"][wt canskip=%canskip|true cond="3 <= kag.skipMode"][eval exp="f.fade=0"]
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : [macro name="fadeout"]
+05:50:18 macro_game.ks : [eval exp="f.fade=1"]
+05:50:18 macro_game.ks : [noch]
+05:50:18 macro_game.ks : [if exp="f.messwin==1"]
+05:50:18 macro_game.ks : [messageoff]
+05:50:18 macro_game.ks : [endif]
+05:50:18 macro_game.ks : [backlay]
+05:50:18 macro_game.ks : [if exp="mp.src=='white'"]
+05:50:18 macro_game.ks : [image layer=%layer|base storage="bg/white.jpg" page=back]
+05:50:18 macro_game.ks : [else]
+05:50:18 macro_game.ks : [image layer=%layer|base storage="bg/black.jpg" page=back]
+05:50:18 macro_game.ks : [endif]
+05:50:18 macro_game.ks : [trans layer=%layer|base time=%time|1000 method=%method|crossfade from=%from rule=%rule cond="kag.skipMode <= 2"]
+05:50:18 macro_game.ks : [wt canskip=%canskip|true cond="kag.skipMode <= 2"]
+05:50:18 macro_game.ks : [trans layer=%layer|base time=%time|150 method=%method|crossfade from=%from rule=%rule cond="3 <= kag.skipMode"]
+05:50:18 macro_game.ks : [wt canskip=%canskip|true cond="3 <= kag.skipMode"]
+05:50:18 macro_game.ks : [endmacro]
+05:50:18 macro : fadeout : [eval exp="f.fade=1"][noch][if exp="f.messwin==1"][messageoff][endif][backlay][if exp="mp.src=='white'"][image layer=%layer|base storage="bg/white.jpg" page=back][else][image layer=%layer|base storage="bg/black.jpg" page=back][endif][trans layer=%layer|base time=%time|1000 method=%method|crossfade from=%from rule=%rule cond="kag.skipMode <= 2"][wt canskip=%canskip|true cond="kag.skipMode <= 2"][trans layer=%layer|base time=%time|150 method=%method|crossfade from=%from rule=%rule cond="3 <= kag.skipMode"][wt canskip=%canskip|true cond="3 <= kag.skipMode"]
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : [macro name="fadeoutwhite"]
+05:50:18 macro_game.ks : [eval exp="f.fade=1"]
+05:50:18 macro_game.ks : [noch]
+05:50:18 macro_game.ks : [if exp="f.messwin==1"]
+05:50:18 macro_game.ks : [messageoff]
+05:50:18 macro_game.ks : [endif]
+05:50:18 macro_game.ks : [backlay]
+05:50:18 macro_game.ks : [image layer=%layer|base storage="bg/white.jpg" page=back]
+05:50:18 macro_game.ks : [trans layer=%layer|base time=%time|1000 method=%method|crossfade from=%from rule=%rule cond="kag.skipMode <= 2"]
+05:50:18 macro_game.ks : [wt canskip=%canskip|true cond="kag.skipMode <= 2"]
+05:50:18 macro_game.ks : [trans layer=%layer|base time=%time|150 method=%method|crossfade from=%from rule=%rule cond="3 <= kag.skipMode"]
+05:50:18 macro_game.ks : [wt canskip=%canskip|true cond="3 <= kag.skipMode"]
+05:50:18 macro_game.ks : [endmacro]
+05:50:18 macro : fadeoutwhite : [eval exp="f.fade=1"][noch][if exp="f.messwin==1"][messageoff][endif][backlay][image layer=%layer|base storage="bg/white.jpg" page=back][trans layer=%layer|base time=%time|1000 method=%method|crossfade from=%from rule=%rule cond="kag.skipMode <= 2"][wt canskip=%canskip|true cond="kag.skipMode <= 2"][trans layer=%layer|base time=%time|150 method=%method|crossfade from=%from rule=%rule cond="3 <= kag.skipMode"][wt canskip=%canskip|true cond="3 <= kag.skipMode"]
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : [macro name="fadeoutblack"]
+05:50:18 macro_game.ks : [eval exp="f.fade=1"]
+05:50:18 macro_game.ks : [noch]
+05:50:18 macro_game.ks : [if exp="f.messwin==1"]
+05:50:18 macro_game.ks : [messageoff]
+05:50:18 macro_game.ks : [endif]
+05:50:18 macro_game.ks : [backlay]
+05:50:18 macro_game.ks : [image layer=%layer|base storage="bg/black.jpg" page=back]
+05:50:18 macro_game.ks : [trans layer=%layer|base time=%time|1000 method=%method|crossfade from=%from rule=%rule cond="kag.skipMode <= 2"]
+05:50:18 macro_game.ks : [wt canskip=%canskip|true cond="kag.skipMode <= 2"]
+05:50:18 macro_game.ks : [trans layer=%layer|base time=%time|150 method=%method|crossfade from=%from rule=%rule cond="3 <= kag.skipMode"]
+05:50:18 macro_game.ks : [wt canskip=%canskip|true cond="3 <= kag.skipMode"]
+05:50:18 macro_game.ks : [endmacro]
+05:50:18 macro : fadeoutblack : [eval exp="f.fade=1"][noch][if exp="f.messwin==1"][messageoff][endif][backlay][image layer=%layer|base storage="bg/black.jpg" page=back][trans layer=%layer|base time=%time|1000 method=%method|crossfade from=%from rule=%rule cond="kag.skipMode <= 2"][wt canskip=%canskip|true cond="kag.skipMode <= 2"][trans layer=%layer|base time=%time|150 method=%method|crossfade from=%from rule=%rule cond="3 <= kag.skipMode"][wt canskip=%canskip|true cond="3 <= kag.skipMode"]
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : [macro name="koteizikankeikaidou"]
+05:50:18 macro_game.ks : [noch]
+05:50:18 macro_game.ks : [if exp="f.messwin==1"]
+05:50:18 macro_game.ks : [messageoff]
+05:50:18 macro_game.ks : [endif]
+05:50:18 macro_game.ks : [backlay]
+05:50:18 macro_game.ks : [image layer=%layer|base storage="bg/black.jpg" page=back]
+05:50:18 macro_game.ks : [image layer=%layer|30 storage="image/game/opacity.png" page=back]
+05:50:18 macro_game.ks : [trans layer=%layer|base time=%time|1000 method=%method|crossfade from=%from rule=%rule cond="kag.skipMode <= 2"]
+05:50:18 macro_game.ks : [wt canskip=%canskip|true cond="kag.skipMode <= 2"]
+05:50:18 macro_game.ks : [trans layer=%layer|base time=%time|50 method=%method|crossfade from=%from rule=%rule cond="3 <= kag.skipMode"]
+05:50:18 macro_game.ks : [wt canskip=%canskip|true cond="3 <= kag.skipMode"]
+05:50:18 macro_game.ks : [freeimage layer=%layer|30]
+05:50:18 macro_game.ks : [bgmout]
+05:50:18 macro_game.ks : [messageon]
+05:50:18 macro_game.ks : [er]
+05:50:18 macro_game.ks : [ch text="……"][l][r][er]
+05:50:18 macro_game.ks : [messageoff]
+05:50:18 macro_game.ks : [if exp="mp.src!=void"]
+05:50:18 macro_game.ks : [eval exp="f.bgpath='bg/'+mp.src"]
+05:50:18 macro_game.ks : [endif]
+05:50:18 macro_game.ks : [image layer=%layer|base storage=&f.bgpath page=back]
+05:50:18 macro_game.ks : [trans layer=%layer|base time=%time|1000 method=%method|crossfade from=%from rule=%rule cond="kag.skipMode <= 2"]
+05:50:18 macro_game.ks : [wt canskip=%canskip|true cond="kag.skipMode <= 2"]
+05:50:18 macro_game.ks : [trans layer=%layer|base time=%time|50 method=%method|crossfade from=%from rule=%rule cond="3 <= kag.skipMode"]
+05:50:18 macro_game.ks : [wt canskip=%canskip|true cond="3 <= kag.skipMode"]
+05:50:18 macro_game.ks : [messageon]
+05:50:18 macro_game.ks : [endmacro]
+05:50:18 macro : koteizikankeikaidou : [noch][if exp="f.messwin==1"][messageoff][endif][backlay][image layer=%layer|base storage="bg/black.jpg" page=back][image layer=%layer|30 storage="image/game/opacity.png" page=back][trans layer=%layer|base time=%time|1000 method=%method|crossfade from=%from rule=%rule cond="kag.skipMode <= 2"][wt canskip=%canskip|true cond="kag.skipMode <= 2"][trans layer=%layer|base time=%time|50 method=%method|crossfade from=%from rule=%rule cond="3 <= kag.skipMode"][wt canskip=%canskip|true cond="3 <= kag.skipMode"][freeimage layer=%layer|30][bgmout][messageon][er][ch text="……"][l][r][er][messageoff][if exp="mp.src!=void"][eval exp="f.bgpath='bg/'+mp.src"][endif][image layer=%layer|base storage=&f.bgpath page=back][trans layer=%layer|base time=%time|1000 method=%method|crossfade from=%from rule=%rule cond="kag.skipMode <= 2"][wt canskip=%canskip|true cond="kag.skipMode <= 2"][trans layer=%layer|base time=%time|50 method=%method|crossfade from=%from rule=%rule cond="3 <= kag.skipMode"][wt canskip=%canskip|true cond="3 <= kag.skipMode"][messageon]
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : [macro name="sprite_dream"]
+05:50:18 macro_game.ks : [image layer=29 storage="image/game/opacity.png" visible=true]
+05:50:18 macro_game.ks : [image layer=30 storage="image/game/opacity.png" visible=true]
+05:50:18 macro_game.ks : [backlay]
+05:50:18 macro_game.ks : [image layer=30 storage="image/sprite/white_99.png" visible=true page=back]
+05:50:18 macro_game.ks : [trans layer=30 time=200 method=crossfade]
+05:50:18 macro_game.ks : [wt]
+05:50:18 macro_game.ks : [backlay]
+05:50:18 macro_game.ks : [image layer=29 storage="image/sprite/date_dream.png" visible=true page=back]
+05:50:18 macro_game.ks : [trans layer=29 time=%time|1000 method=crossfade]
+05:50:18 macro_game.ks : [wt]
+05:50:18 macro_game.ks : [wait time=%time|1000 canskip=%canskip|false]
+05:50:18 macro_game.ks : [freeimage layer=29]
+05:50:18 macro_game.ks : [messageon]
+05:50:18 macro_game.ks : [endmacro]
+05:50:18 macro : sprite_dream : [image layer=29 storage="image/game/opacity.png" visible=true][image layer=30 storage="image/game/opacity.png" visible=true][backlay][image layer=30 storage="image/sprite/white_99.png" visible=true page=back][trans layer=30 time=200 method=crossfade][wt][backlay][image layer=29 storage="image/sprite/date_dream.png" visible=true page=back][trans layer=29 time=%time|1000 method=crossfade][wt][wait time=%time|1000 canskip=%canskip|false][freeimage layer=29][messageon]
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : [macro name="sprite_item"]
+05:50:18 macro_game.ks : [if exp="f.messwin==1"]
+05:50:18 macro_game.ks : [messageoff]
+05:50:18 macro_game.ks : [endif]
+05:50:18 macro_game.ks : [eval exp="tf.item='image/sprite/'+mp.src"]
+05:50:18 macro_game.ks : [image layer=%layer|30 storage="image/sprite/black_50.png" page=fore visible=true]
+05:50:18 macro_game.ks : [image layer=%layer|31 storage="image/game/opacity.png" page=fore visible=true]
+05:50:18 macro_game.ks : [backlay]
+05:50:18 macro_game.ks : [image layer=%layer|31 storage="&tf.item" page=back]
+05:50:18 macro_game.ks : [trans layer=%layer|31 time=%time|400 method=%method|crossfade rule=%rule cond="kag.skipMode <= 2"]
+05:50:18 macro_game.ks : [wt canskip=%canskip|true cond="kag.skipMode <= 2"]
+05:50:18 macro_game.ks : [trans layer=%layer|31 time=%time|100 method=%method|crossfade rule=%rule cond="3 <= kag.skipMode"]
+05:50:18 macro_game.ks : [wt canskip=%canskip|true cond="3 <= kag.skipMode"]
+05:50:18 macro_game.ks : [messageon]
+05:50:18 macro_game.ks : [endmacro]
+05:50:18 macro : sprite_item : [if exp="f.messwin==1"][messageoff][endif][eval exp="tf.item='image/sprite/'+mp.src"][image layer=%layer|30 storage="image/sprite/black_50.png" page=fore visible=true][image layer=%layer|31 storage="image/game/opacity.png" page=fore visible=true][backlay][image layer=%layer|31 storage="&tf.item" page=back][trans layer=%layer|31 time=%time|400 method=%method|crossfade rule=%rule cond="kag.skipMode <= 2"][wt canskip=%canskip|true cond="kag.skipMode <= 2"][trans layer=%layer|31 time=%time|100 method=%method|crossfade rule=%rule cond="3 <= kag.skipMode"][wt canskip=%canskip|true cond="3 <= kag.skipMode"][messageon]
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : [macro name="spriteoff"]
+05:50:18 macro_game.ks : [backlay]
+05:50:18 macro_game.ks : [image layer=%layer|30 storage="image/game/opacity.png" page=back]
+05:50:18 macro_game.ks : [image layer=%layer|31 storage="image/game/opacity.png" page=back]
+05:50:18 macro_game.ks : [trans time=%time|400 method=%method|crossfade from=%from rule=%rule cond="kag.skipMode <= 2"]
+05:50:18 macro_game.ks : [wt canskip=%canskip|true cond="kag.skipMode <= 2"]
+05:50:18 macro_game.ks : [trans time=%time|100 method=%method|crossfade rule=%rule cond="3 <= kag.skipMode"]
+05:50:18 macro_game.ks : [wt canskip=%canskip|true cond="3 <= kag.skipMode"]
+05:50:18 macro_game.ks : [wait time=1000 canxkip=true]
+05:50:18 macro_game.ks : [freeimage layer=%layer|30]
+05:50:18 macro_game.ks : [freeimage layer=%layer|31]
+05:50:18 macro_game.ks : [endmacro]
+05:50:18 macro : spriteoff : [backlay][image layer=%layer|30 storage="image/game/opacity.png" page=back][image layer=%layer|31 storage="image/game/opacity.png" page=back][trans time=%time|400 method=%method|crossfade from=%from rule=%rule cond="kag.skipMode <= 2"][wt canskip=%canskip|true cond="kag.skipMode <= 2"][trans time=%time|100 method=%method|crossfade rule=%rule cond="3 <= kag.skipMode"][wt canskip=%canskip|true cond="3 <= kag.skipMode"][wait time=1000 canxkip=true][freeimage layer=%layer|30][freeimage layer=%layer|31]
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : [macro name="閃光"]
+05:50:18 macro_game.ks : [backlay]
+05:50:18 macro_game.ks : [fadeoutwhite time=200]
+05:50:18 macro_game.ks : [wait time=200]
+05:50:18 macro_game.ks : [fadein time=2000]
+05:50:18 macro_game.ks : [wait time=3000]
+05:50:18 macro_game.ks : [endmacro]
+05:50:18 macro : 閃光 : [backlay][fadeoutwhite time=200][wait time=200][fadein time=2000][wait time=3000]
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : [macro name="フラッシュ"]
+05:50:18 macro_game.ks : [fadeoutwhite time=200]
+05:50:18 macro_game.ks : [cg src=%src]
+05:50:18 macro_game.ks : [fadein time=2000]
+05:50:18 macro_game.ks : [wait time=3000]
+05:50:18 macro_game.ks : [endmacro]
+05:50:18 macro : フラッシュ : [fadeoutwhite time=200][cg src=%src][fadein time=2000][wait time=3000]
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : [macro name="射精フラッシュ"]
+05:50:18 macro_game.ks : [fadeoutwhite time=100]
+05:50:18 macro_game.ks : [fadein time=100]
+05:50:18 macro_game.ks : [wait time=1000]
+05:50:18 macro_game.ks : [fadeoutwhite time=100]
+05:50:18 macro_game.ks : [fadein time=100]
+05:50:18 macro_game.ks : [wait time=1000]
+05:50:18 macro_game.ks : [fadeoutwhite]
+05:50:18 macro_game.ks : [wait time=500]
+05:50:18 macro_game.ks : [cg src=%src]
+05:50:18 macro_game.ks : [fadein time=3000]
+05:50:18 macro_game.ks : [wait time=2000]
+05:50:18 macro_game.ks : [endmacro]
+05:50:18 macro : 射精フラッシュ : [fadeoutwhite time=100][fadein time=100][wait time=1000][fadeoutwhite time=100][fadein time=100][wait time=1000][fadeoutwhite][wait time=500][cg src=%src][fadein time=3000][wait time=2000]
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : [macro name="夢突入"]
+05:50:18 macro_game.ks : [eval exp="f.fade=void"]
+05:50:18 macro_game.ks : [image layer=base storage="bg/white.jpg"]
+05:50:18 macro_game.ks : [eval exp="tf.cmnd=mp.cmnd"]
+05:50:18 macro_game.ks : [bgm src="BGM09_dream.ogg"]
+05:50:18 macro_game.ks : [messageon]
+05:50:18 macro_game.ks : ……
+05:50:18 macro_game.ks : [lr]
+05:50:18 macro_game.ks : [eh]
+05:50:18 macro_game.ks : [if exp="tf.cmnd=='Bg'"]
+05:50:18 macro_game.ks : [bg src=%src]
+05:50:18 macro_game.ks : [elsif exp="tf.cmnd=='BgEvent'"]
+05:50:18 macro_game.ks : [cg src=%src]
+05:50:18 macro_game.ks : [endif]
+05:50:18 macro_game.ks : [sprite_dream]
+05:50:18 macro_game.ks : [endmacro]
+05:50:18 macro : 夢突入 : [eval exp="f.fade=void"][image layer=base storage="bg/white.jpg"][eval exp="tf.cmnd=mp.cmnd"][bgm src="BGM09_dream.ogg"][messageon]……[lr][eh][if exp="tf.cmnd=='Bg'"][bg src=%src][elsif exp="tf.cmnd=='BgEvent'"][cg src=%src][endif][sprite_dream]
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : [macro name="夢突入2"]
+05:50:18 macro_game.ks : [eval exp="f.fade=void"]
+05:50:18 macro_game.ks : [image layer=base storage="bg/white.jpg"]
+05:50:18 macro_game.ks : [eval exp="tf.cmnd=mp.cmnd"]
+05:50:18 macro_game.ks : [bgm src="BGM09_dream.ogg"]
+05:50:18 macro_game.ks : [wait time=500]
+05:50:18 macro_game.ks : [messageon]
+05:50:18 macro_game.ks : ……
+05:50:18 macro_game.ks : [lr]
+05:50:18 macro_game.ks : [eh]
+05:50:18 macro_game.ks : [if exp="tf.cmnd=='Bg'"]
+05:50:18 macro_game.ks : [bg src=%src]
+05:50:18 macro_game.ks : [elsif exp="tf.cmnd=='BgEvent'"]
+05:50:18 macro_game.ks : [cg src=%src]
+05:50:18 macro_game.ks : [endif]
+05:50:18 macro_game.ks : [sprite_dream]
+05:50:18 macro_game.ks : [endmacro]
+05:50:18 macro : 夢突入2 : [eval exp="f.fade=void"][image layer=base storage="bg/white.jpg"][eval exp="tf.cmnd=mp.cmnd"][bgm src="BGM09_dream.ogg"][wait time=500][messageon]……[lr][eh][if exp="tf.cmnd=='Bg'"][bg src=%src][elsif exp="tf.cmnd=='BgEvent'"][cg src=%src][endif][sprite_dream]
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : [macro name="夢突入真里奈"]
+05:50:18 macro_game.ks : [eval exp="f.fade=void"]
+05:50:18 macro_game.ks : [image layer=base storage="bg/white.jpg"]
+05:50:18 macro_game.ks : [eval exp="tf.cmnd=mp.cmnd"]
+05:50:18 macro_game.ks : [wait time=1000]
+05:50:18 macro_game.ks : [bgm src="Komoriuta_chopin02_Onatsu.ogg"]
+05:50:18 macro_game.ks : [messageon]
+05:50:18 macro_game.ks : ……
+05:50:18 macro_game.ks : [lr]
+05:50:18 macro_game.ks : [eh]
+05:50:18 macro_game.ks : [if exp="tf.cmnd=='Bg'"]
+05:50:18 macro_game.ks : [bg src=%src]
+05:50:18 macro_game.ks : [elsif exp="tf.cmnd=='BgEvent'"]
+05:50:18 macro_game.ks : [cg src=%src]
+05:50:18 macro_game.ks : [endif]
+05:50:18 macro_game.ks : [sprite_dream]
+05:50:18 macro_game.ks : [endmacro]
+05:50:18 macro : 夢突入真里奈 : [eval exp="f.fade=void"][image layer=base storage="bg/white.jpg"][eval exp="tf.cmnd=mp.cmnd"][wait time=1000][bgm src="Komoriuta_chopin02_Onatsu.ogg"][messageon]……[lr][eh][if exp="tf.cmnd=='Bg'"][bg src=%src][elsif exp="tf.cmnd=='BgEvent'"][cg src=%src][endif][sprite_dream]
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : [macro name="夢終了"]
+05:50:18 macro_game.ks : [bgmout]
+05:50:18 macro_game.ks : [spriteoff]
+05:50:18 macro_game.ks : [noch]
+05:50:18 macro_game.ks : [image layer=base storage="bg/white.jpg"]
+05:50:18 macro_game.ks : [wait time=1000]
+05:50:18 macro_game.ks : [endmacro]
+05:50:18 macro : 夢終了 : [bgmout][spriteoff][noch][image layer=base storage="bg/white.jpg"][wait time=1000]
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : [macro name="ハネる"]
+05:50:18 macro_game.ks : [eval exp="tf.chara=mp.chara"]
+05:50:18 macro_game.ks : [eval exp="tf.opa=255"]
+05:50:18 macro_game.ks : [if exp="tf.chara=='真里奈'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.marina1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='由衣'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.yui1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='七ノ羽'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.nanoha1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='時雨'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.shigure1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='モモケン'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.momoken1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='ミコト'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.mikoto1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='ドミトリー'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.domitori1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='ミキ'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.miki1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='あかね'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.akane1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='カズキ'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.kazuki1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='コウキ'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.kouki1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='千明'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.tiaki1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='睦月'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.mutuki1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='千歳'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.titose1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='美咲'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.misaki1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='柊父'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.hiragi1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='カスミ'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.kasumi1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='ハナ'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.hana1"]
+05:50:18 macro_game.ks : [else]
+05:50:18 macro_game.ks : [eval exp="tf.layer=17"]
+05:50:18 macro_game.ks : [endif]
+05:50:18 macro_game.ks : [if exp="tf.layer==13"]
+05:50:18 macro_game.ks : [eval exp="tf.left=483,tf.top=10"]
+05:50:18 macro_game.ks : [elsif exp="tf.layer==14"]
+05:50:18 macro_game.ks : [eval exp="tf.left=-237,tf.top=10"]
+05:50:18 macro_game.ks : [elsif exp="tf.layer==15"]
+05:50:18 macro_game.ks : [eval exp="tf.left=291,tf.top=10"]
+05:50:18 macro_game.ks : [elsif exp="tf.layer==16"]
+05:50:18 macro_game.ks : [eval exp="tf.left=-45,tf.top=10"]
+05:50:18 macro_game.ks : [elsif exp="tf.layer==17"]
+05:50:18 macro_game.ks : [eval exp="tf.left=123, tf.top=0"]
+05:50:18 macro_game.ks : [elsif exp="tf.layer==11"]
+05:50:18 macro_game.ks : [eval exp="tf.left=617,tf.top=10"]
+05:50:18 macro_game.ks : [elsif exp="tf.layer==12"]
+05:50:18 macro_game.ks : [eval exp="tf.left=-371,tf.top=10"]
+05:50:18 macro_game.ks : [endif]
+05:50:18 macro_game.ks : [move layer=&tf.layer time=300 path = '&@"(${tf.left},${tf.top},${tf.opa})(${tf.left},${tf.top+18},${tf.opa})"' accel = -3]
+05:50:18 macro_game.ks : [wait time =240]
+05:50:18 macro_game.ks : [move layer=&tf.layer time=400 path = '&@"(${tf.left},${tf.top+18},${tf.opa})(${tf.left},${tf.top},${tf.opa})"' accel = -3]
+05:50:18 macro_game.ks : [endmacro]
+05:50:18 macro : ハネる : [eval exp="tf.chara=mp.chara"][eval exp="tf.opa=255"][if exp="tf.chara=='真里奈'"][eval exp="tf.layer=&f.marina1"][elsif exp="tf.chara=='由衣'"][eval exp="tf.layer=&f.yui1"][elsif exp="tf.chara=='七ノ羽'"][eval exp="tf.layer=&f.nanoha1"][elsif exp="tf.chara=='時雨'"][eval exp="tf.layer=&f.shigure1"][elsif exp="tf.chara=='モモケン'"][eval exp="tf.layer=&f.momoken1"][elsif exp="tf.chara=='ミコト'"][eval exp="tf.layer=&f.mikoto1"][elsif exp="tf.chara=='ドミトリー'"][eval exp="tf.layer=&f.domitori1"][elsif exp="tf.chara=='ミキ'"][eval exp="tf.layer=&f.miki1"][elsif exp="tf.chara=='あかね'"][eval exp="tf.layer=&f.akane1"][elsif exp="tf.chara=='カズキ'"][eval exp="tf.layer=&f.kazuki1"][elsif exp="tf.chara=='コウキ'"][eval exp="tf.layer=&f.kouki1"][elsif exp="tf.chara=='千明'"][eval exp="tf.layer=&f.tiaki1"][elsif exp="tf.chara=='睦月'"][eval exp="tf.layer=&f.mutuki1"][elsif exp="tf.chara=='千歳'"][eval exp="tf.layer=&f.titose1"][elsif exp="tf.chara=='美咲'"][eval exp="tf.layer=&f.misaki1"][elsif exp="tf.chara=='柊父'"][eval exp="tf.layer=&f.hiragi1"][elsif exp="tf.chara=='カスミ'"][eval exp="tf.layer=&f.kasumi1"][elsif exp="tf.chara=='ハナ'"][eval exp="tf.layer=&f.hana1"][else][eval exp="tf.layer=17"][endif][if exp="tf.layer==13"][eval exp="tf.left=483,tf.top=10"][elsif exp="tf.layer==14"][eval exp="tf.left=-237,tf.top=10"][elsif exp="tf.layer==15"][eval exp="tf.left=291,tf.top=10"][elsif exp="tf.layer==16"][eval exp="tf.left=-45,tf.top=10"][elsif exp="tf.layer==17"][eval exp="tf.left=123, tf.top=0"][elsif exp="tf.layer==11"][eval exp="tf.left=617,tf.top=10"][elsif exp="tf.layer==12"][eval exp="tf.left=-371,tf.top=10"][endif][move layer=&tf.layer time=300 path = '&@"(${tf.left},${tf.top},${tf.opa})(${tf.left},${tf.top+18},${tf.opa})"' accel = -3][wait time =240][move layer=&tf.layer time=400 path = '&@"(${tf.left},${tf.top+18},${tf.opa})(${tf.left},${tf.top},${tf.opa})"' accel = -3]
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : [macro name="画像OFF"]
+05:50:18 macro_game.ks : [messageoff]
+05:50:18 macro_game.ks : [backlay]
+05:50:18 macro_game.ks : [freeimage layer=17 page=back]
+05:50:18 macro_game.ks : [freeimage layer=16 page=back]
+05:50:18 macro_game.ks : [freeimage layer=15 page=back]
+05:50:18 macro_game.ks : [freeimage layer=14 page=back]
+05:50:18 macro_game.ks : [freeimage layer=13 page=back]
+05:50:18 macro_game.ks : [freeimage layer=12 page=back]
+05:50:18 macro_game.ks : [freeimage layer=11 page=back]
+05:50:18 macro_game.ks : [freeimage layer=30 page=back]
+05:50:18 macro_game.ks : [freeimage layer=31 page=back]
+05:50:18 macro_game.ks : [freeimage layer=29 page=back]
+05:50:18 macro_game.ks : [image layer=base storage="bg/black.jpg" page=back]
+05:50:18 macro_game.ks : [trans layer=%layer|base time=%time|1000 method=%method|crossfade from=%from rule=%rule cond="kag.skipMode <= 2"]
+05:50:18 macro_game.ks : [trans layer=%layer|base time=100 method=%method|crossfade from=%from rule=%rule cond="3 <= kag.skipMode"]
+05:50:18 macro_game.ks : [wt canskip=%canskip|true]
+05:50:18 macro_game.ks : [endmacro]
+05:50:18 macro : 画像off : [messageoff][backlay][freeimage layer=17 page=back][freeimage layer=16 page=back][freeimage layer=15 page=back][freeimage layer=14 page=back][freeimage layer=13 page=back][freeimage layer=12 page=back][freeimage layer=11 page=back][freeimage layer=30 page=back][freeimage layer=31 page=back][freeimage layer=29 page=back][image layer=base storage="bg/black.jpg" page=back][trans layer=%layer|base time=%time|1000 method=%method|crossfade from=%from rule=%rule cond="kag.skipMode <= 2"][trans layer=%layer|base time=100 method=%method|crossfade from=%from rule=%rule cond="3 <= kag.skipMode"][wt canskip=%canskip|true]
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : [macro name="headache"]
+05:50:18 macro_game.ks : [backlay]
+05:50:18 macro_game.ks : [image layer=base storage="bg/white.jpg" page=fore]
+05:50:18 macro_game.ks : [quake time=%time|1000]
+05:50:18 macro_game.ks : [image layer=29  storage="image/sprite/memai.png" page=fore visible=true]
+05:50:18 macro_game.ks : [wait time=2000]
+05:50:18 macro_game.ks : [trans time=1000 method=%method|crossfade]
+05:50:18 macro_game.ks : [wt]
+05:50:18 macro_game.ks : [endmacro]
+05:50:18 macro : headache : [backlay][image layer=base storage="bg/white.jpg" page=fore][quake time=%time|1000][image layer=29  storage="image/sprite/memai.png" page=fore visible=true][wait time=2000][trans time=1000 method=%method|crossfade][wt]
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : [macro name="時間経過"]
+05:50:18 macro_game.ks : [noch]
+05:50:18 macro_game.ks : [if exp="f.messwin==1"]
+05:50:18 macro_game.ks : [messageoff]
+05:50:18 macro_game.ks : [endif]
+05:50:18 macro_game.ks : [backlay]
+05:50:18 macro_game.ks : [if exp="mp.color=='white'"]
+05:50:18 macro_game.ks : [image layer=%layer|base storage="bg/white.jpg" page=back]
+05:50:18 macro_game.ks : [else]
+05:50:18 macro_game.ks : [image layer=%layer|base storage="bg/black.jpg" page=back]
+05:50:18 macro_game.ks : [endif]
+05:50:18 macro_game.ks : [trans layer=%layer|base time=%time|2000 method=%method|crossfade from=%from rule=%rule cond="kag.skipMode <= 2"]
+05:50:18 macro_game.ks : [wt canskip=%canskip|true cond="kag.skipMode <= 2"]
+05:50:18 macro_game.ks : [trans layer=%layer|base time=%time|100 method=%method|crossfade from=%from rule=%rule cond="3 <= kag.skipMode"]
+05:50:18 macro_game.ks : [wt canskip=%canskip|true cond="3 <= kag.skipMode"]
+05:50:18 macro_game.ks : [messageon]
+05:50:18 macro_game.ks : ……
+05:50:18 macro_game.ks : [lr]
+05:50:18 macro_game.ks : [eh]
+05:50:18 macro_game.ks : [endmacro]
+05:50:18 macro : 時間経過 : [noch][if exp="f.messwin==1"][messageoff][endif][backlay][if exp="mp.color=='white'"][image layer=%layer|base storage="bg/white.jpg" page=back][else][image layer=%layer|base storage="bg/black.jpg" page=back][endif][trans layer=%layer|base time=%time|2000 method=%method|crossfade from=%from rule=%rule cond="kag.skipMode <= 2"][wt canskip=%canskip|true cond="kag.skipMode <= 2"][trans layer=%layer|base time=%time|100 method=%method|crossfade from=%from rule=%rule cond="3 <= kag.skipMode"][wt canskip=%canskip|true cond="3 <= kag.skipMode"][messageon]……[lr][eh]
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : [macro name="時間経過A"]
+05:50:18 macro_game.ks : [noch]
+05:50:18 macro_game.ks : [if exp="f.messwin==1"]
+05:50:18 macro_game.ks : [messageoff]
+05:50:18 macro_game.ks : [endif]
+05:50:18 macro_game.ks : [image layer=31 storage="image/sprite/trs01.png" page=fore visible=true left=1600 top=0]
+05:50:18 macro_game.ks : [move layer=31 time=1200 path="(1600,0,255) (-1200,0,255)"]
+05:50:18 macro_game.ks : [wm]
+05:50:18 macro_game.ks : [messageon]
+05:50:18 macro_game.ks : ……
+05:50:18 macro_game.ks : [lr]
+05:50:18 macro_game.ks : [eh]
+05:50:18 macro_game.ks : [messageoff]
+05:50:18 macro_game.ks : [move layer=31 time=1200 path="(-1200,0,255) (-2600,0,255)"]
+05:50:18 macro_game.ks : [wm]
+05:50:18 macro_game.ks : [freeimage layer=31 page=fore]
+05:50:18 macro_game.ks : [messageon]
+05:50:18 macro_game.ks : [endmacro]
+05:50:18 macro : 時間経過a : [noch][if exp="f.messwin==1"][messageoff][endif][image layer=31 storage="image/sprite/trs01.png" page=fore visible=true left=1600 top=0][move layer=31 time=1200 path="(1600,0,255) (-1200,0,255)"][wm][messageon]……[lr][eh][messageoff][move layer=31 time=1200 path="(-1200,0,255) (-2600,0,255)"][wm][freeimage layer=31 page=fore][messageon]
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : [macro name="時間経過B"]
+05:50:18 macro_game.ks : [noch]
+05:50:18 macro_game.ks : [if exp="f.messwin==1"]
+05:50:18 macro_game.ks : [messageoff]
+05:50:18 macro_game.ks : [endif]
+05:50:18 macro_game.ks : [image layer=31 storage="image/sprite/trs01.png" page=fore visible=true left=1600 top=0]
+05:50:18 macro_game.ks : [move layer=31 time=1200 path="(1600,0,255) (-1200,0,255)"]
+05:50:18 macro_game.ks : [wm]
+05:50:18 macro_game.ks : [messageon]
+05:50:18 macro_game.ks : ……
+05:50:18 macro_game.ks : [lr]
+05:50:18 macro_game.ks : [eh]
+05:50:18 macro_game.ks : [messageoff]
+05:50:18 macro_game.ks : [bg src=%src]
+05:50:18 macro_game.ks : [move layer=31 time=1200 path="(-1200,0,255) (-2600,0,255)"]
+05:50:18 macro_game.ks : [wm]
+05:50:18 macro_game.ks : [freeimage layer=31 page=fore]
+05:50:18 macro_game.ks : [messageon]
+05:50:18 macro_game.ks : [endmacro]
+05:50:18 macro : 時間経過b : [noch][if exp="f.messwin==1"][messageoff][endif][image layer=31 storage="image/sprite/trs01.png" page=fore visible=true left=1600 top=0][move layer=31 time=1200 path="(1600,0,255) (-1200,0,255)"][wm][messageon]……[lr][eh][messageoff][bg src=%src][move layer=31 time=1200 path="(-1200,0,255) (-2600,0,255)"][wm][freeimage layer=31 page=fore][messageon]
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : [macro name="固定時間経過"]
+05:50:18 macro_game.ks : [noch]
+05:50:18 macro_game.ks : [if exp="f.messwin==1"]
+05:50:18 macro_game.ks : [messageoff]
+05:50:18 macro_game.ks : [endif]
+05:50:18 macro_game.ks : [backlay]
+05:50:18 macro_game.ks : [if exp="mp.color=='white'"]
+05:50:18 macro_game.ks : [image layer=%layer|base storage="bg/white.jpg" page=back]
+05:50:18 macro_game.ks : [endif]
+05:50:18 macro_game.ks : [image layer=%layer|base storage="bg/black.jpg" page=back]
+05:50:18 macro_game.ks : [trans layer=%layer|base time=%time|1000 method=%method|crossfade from=%from rule=%rule cond="kag.skipMode <= 2"]
+05:50:18 macro_game.ks : [wt canskip=%canskip|true cond="kag.skipMode <= 2"]
+05:50:18 macro_game.ks : [trans layer=%layer|base time=%time|100 method=%method|crossfade from=%from rule=%rule cond="3 <= kag.skipMode"]
+05:50:18 macro_game.ks : [wt canskip=%canskip|true cond="3 <= kag.skipMode"]
+05:50:18 macro_game.ks : [bgmout]
+05:50:18 macro_game.ks : [messageon]
+05:50:18 macro_game.ks : ……
+05:50:18 macro_game.ks : [lr]
+05:50:18 macro_game.ks : [eh]
+05:50:18 macro_game.ks : [messageoff]
+05:50:18 macro_game.ks : [if exp="mp.src!=void"]
+05:50:18 macro_game.ks : [eval exp="f.bgpath='bg/'+mp.src"]
+05:50:18 macro_game.ks : [endif]
+05:50:18 macro_game.ks : [image layer=%layer|base storage=&f.bgpath page=back]
+05:50:18 macro_game.ks : [trans layer=%layer|base time=%time|1000 method=%method|crossfade from=%from rule=%rule cond="kag.skipMode <= 2"]
+05:50:18 macro_game.ks : [wt canskip=%canskip|true cond="kag.skipMode <= 2"]
+05:50:18 macro_game.ks : [trans layer=%layer|base time=%time|100 method=%method|crossfade from=%from rule=%rule cond="3 <= kag.skipMode"]
+05:50:18 macro_game.ks : [wt canskip=%canskip|true cond="3 <= kag.skipMode"]
+05:50:18 macro_game.ks : [messageon]
+05:50:18 macro_game.ks : [endmacro]
+05:50:18 macro : 固定時間経過 : [noch][if exp="f.messwin==1"][messageoff][endif][backlay][if exp="mp.color=='white'"][image layer=%layer|base storage="bg/white.jpg" page=back][endif][image layer=%layer|base storage="bg/black.jpg" page=back][trans layer=%layer|base time=%time|1000 method=%method|crossfade from=%from rule=%rule cond="kag.skipMode <= 2"][wt canskip=%canskip|true cond="kag.skipMode <= 2"][trans layer=%layer|base time=%time|100 method=%method|crossfade from=%from rule=%rule cond="3 <= kag.skipMode"][wt canskip=%canskip|true cond="3 <= kag.skipMode"][bgmout][messageon]……[lr][eh][messageoff][if exp="mp.src!=void"][eval exp="f.bgpath='bg/'+mp.src"][endif][image layer=%layer|base storage=&f.bgpath page=back][trans layer=%layer|base time=%time|1000 method=%method|crossfade from=%from rule=%rule cond="kag.skipMode <= 2"][wt canskip=%canskip|true cond="kag.skipMode <= 2"][trans layer=%layer|base time=%time|100 method=%method|crossfade from=%from rule=%rule cond="3 <= kag.skipMode"][wt canskip=%canskip|true cond="3 <= kag.skipMode"][messageon]
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : [macro name="tween"]
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : [endmacro]
+05:50:18 macro : tween : 
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : [macro name="delch"]
+05:50:18 macro_game.ks : [backlay]
+05:50:18 macro_game.ks : [if exp="tf.chara=='真里奈'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.marina1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='由衣'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.yui1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='七ノ羽'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.nanoha1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='時雨'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.shigure1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='モモケン'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.momoken1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='ミコト'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.mikoto1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='ドミトリー'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.domitori1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='ミキ'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.miki1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='あかね'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.akane1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='カズキ'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.kazuki1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='コウキ'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.kouki1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='千明'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.tiaki1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='睦月'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.mutuki1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='千歳'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.titose1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='美咲'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.misaki1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='柊父'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.hiragi1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='カスミ'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.kasumi1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='ハナ'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.hana1"]
+05:50:18 macro_game.ks : [else]
+05:50:18 macro_game.ks : [eval exp="tf.layer=17"]
+05:50:18 macro_game.ks : [endif]
+05:50:18 macro_game.ks : [freeimage layer=&tf.layer page=back]
+05:50:18 macro_game.ks : [trans layer=%layer|base time=%time|1000 method=%method|crossfade from=%from rule=%rule cond="kag.skipMode <= 2"]
+05:50:18 macro_game.ks : [trans layer=%layer|base time=200 method=%method|crossfade from=%from rule=%rule cond="3 <= kag.skipMode"]
+05:50:18 macro_game.ks : [wt canskip=%canskip|true]
+05:50:18 macro_game.ks : [endmacro]
+05:50:18 macro : delch : [backlay][if exp="tf.chara=='真里奈'"][eval exp="tf.layer=&f.marina1"][elsif exp="tf.chara=='由衣'"][eval exp="tf.layer=&f.yui1"][elsif exp="tf.chara=='七ノ羽'"][eval exp="tf.layer=&f.nanoha1"][elsif exp="tf.chara=='時雨'"][eval exp="tf.layer=&f.shigure1"][elsif exp="tf.chara=='モモケン'"][eval exp="tf.layer=&f.momoken1"][elsif exp="tf.chara=='ミコト'"][eval exp="tf.layer=&f.mikoto1"][elsif exp="tf.chara=='ドミトリー'"][eval exp="tf.layer=&f.domitori1"][elsif exp="tf.chara=='ミキ'"][eval exp="tf.layer=&f.miki1"][elsif exp="tf.chara=='あかね'"][eval exp="tf.layer=&f.akane1"][elsif exp="tf.chara=='カズキ'"][eval exp="tf.layer=&f.kazuki1"][elsif exp="tf.chara=='コウキ'"][eval exp="tf.layer=&f.kouki1"][elsif exp="tf.chara=='千明'"][eval exp="tf.layer=&f.tiaki1"][elsif exp="tf.chara=='睦月'"][eval exp="tf.layer=&f.mutuki1"][elsif exp="tf.chara=='千歳'"][eval exp="tf.layer=&f.titose1"][elsif exp="tf.chara=='美咲'"][eval exp="tf.layer=&f.misaki1"][elsif exp="tf.chara=='柊父'"][eval exp="tf.layer=&f.hiragi1"][elsif exp="tf.chara=='カスミ'"][eval exp="tf.layer=&f.kasumi1"][elsif exp="tf.chara=='ハナ'"][eval exp="tf.layer=&f.hana1"][else][eval exp="tf.layer=17"][endif][freeimage layer=&tf.layer page=back][trans layer=%layer|base time=%time|1000 method=%method|crossfade from=%from rule=%rule cond="kag.skipMode <= 2"][trans layer=%layer|base time=200 method=%method|crossfade from=%from rule=%rule cond="3 <= kag.skipMode"][wt canskip=%canskip|true]
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : [macro name="移動右"]
+05:50:18 macro_game.ks : [eval exp="tf.chara=mp.chara"]
+05:50:18 macro_game.ks : [eval exp="tf.opa=255"]
+05:50:18 macro_game.ks : [if exp="tf.chara=='真里奈'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.marina1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='由衣'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.yui1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='七ノ羽'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.nanoha1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='時雨'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.shigure1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='モモケン'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.momoken1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='ミコト'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.mikoto1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='ドミトリー'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.domitori1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='ミキ'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.miki1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='あかね'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.akane1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='カズキ'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.kazuki1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='コウキ'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.kouki1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='千明'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.tiaki1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='睦月'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.mutuki1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='千歳'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.titose1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='美咲'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.misaki1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='柊父'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.hiragi1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='カスミ'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.kasumi1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='ハナ'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.hana1"]
+05:50:18 macro_game.ks : [else]
+05:50:18 macro_game.ks : [eval exp="tf.layer=17"]
+05:50:18 macro_game.ks : [endif]
+05:50:18 macro_game.ks : [if exp="tf.layer==13"]
+05:50:18 macro_game.ks : [eval exp="tf.left=483,tf.top=10"]
+05:50:18 macro_game.ks : [elsif exp="tf.layer==14"]
+05:50:18 macro_game.ks : [eval exp="tf.left=-237,tf.top=10"]
+05:50:18 macro_game.ks : [elsif exp="tf.layer==15"]
+05:50:18 macro_game.ks : [eval exp="tf.left=291,tf.top=10"]
+05:50:18 macro_game.ks : [elsif exp="tf.layer==16"]
+05:50:18 macro_game.ks : [eval exp="tf.left=-45,tf.top=10"]
+05:50:18 macro_game.ks : [elsif exp="tf.layer==17"]
+05:50:18 macro_game.ks : [eval exp="tf.left=123, tf.top=0"]
+05:50:18 macro_game.ks : [elsif exp="tf.layer==11"]
+05:50:18 macro_game.ks : [eval exp="tf.left=617,tf.top=10"]
+05:50:18 macro_game.ks : [elsif exp="tf.layer==12"]
+05:50:18 macro_game.ks : [eval exp="tf.left=-371,tf.top=10"]
+05:50:18 macro_game.ks : [endif]
+05:50:18 macro_game.ks : [move layer=&tf.layer time=%time|1500 path = '&@"(${tf.left},${tf.top},${tf.opa})(${tf.left+1000},${tf.top},${tf.opa})"' accel = -3]
+05:50:18 macro_game.ks : [wm]
+05:50:18 macro_game.ks : [endmacro]
+05:50:18 macro : 移動右 : [eval exp="tf.chara=mp.chara"][eval exp="tf.opa=255"][if exp="tf.chara=='真里奈'"][eval exp="tf.layer=&f.marina1"][elsif exp="tf.chara=='由衣'"][eval exp="tf.layer=&f.yui1"][elsif exp="tf.chara=='七ノ羽'"][eval exp="tf.layer=&f.nanoha1"][elsif exp="tf.chara=='時雨'"][eval exp="tf.layer=&f.shigure1"][elsif exp="tf.chara=='モモケン'"][eval exp="tf.layer=&f.momoken1"][elsif exp="tf.chara=='ミコト'"][eval exp="tf.layer=&f.mikoto1"][elsif exp="tf.chara=='ドミトリー'"][eval exp="tf.layer=&f.domitori1"][elsif exp="tf.chara=='ミキ'"][eval exp="tf.layer=&f.miki1"][elsif exp="tf.chara=='あかね'"][eval exp="tf.layer=&f.akane1"][elsif exp="tf.chara=='カズキ'"][eval exp="tf.layer=&f.kazuki1"][elsif exp="tf.chara=='コウキ'"][eval exp="tf.layer=&f.kouki1"][elsif exp="tf.chara=='千明'"][eval exp="tf.layer=&f.tiaki1"][elsif exp="tf.chara=='睦月'"][eval exp="tf.layer=&f.mutuki1"][elsif exp="tf.chara=='千歳'"][eval exp="tf.layer=&f.titose1"][elsif exp="tf.chara=='美咲'"][eval exp="tf.layer=&f.misaki1"][elsif exp="tf.chara=='柊父'"][eval exp="tf.layer=&f.hiragi1"][elsif exp="tf.chara=='カスミ'"][eval exp="tf.layer=&f.kasumi1"][elsif exp="tf.chara=='ハナ'"][eval exp="tf.layer=&f.hana1"][else][eval exp="tf.layer=17"][endif][if exp="tf.layer==13"][eval exp="tf.left=483,tf.top=10"][elsif exp="tf.layer==14"][eval exp="tf.left=-237,tf.top=10"][elsif exp="tf.layer==15"][eval exp="tf.left=291,tf.top=10"][elsif exp="tf.layer==16"][eval exp="tf.left=-45,tf.top=10"][elsif exp="tf.layer==17"][eval exp="tf.left=123, tf.top=0"][elsif exp="tf.layer==11"][eval exp="tf.left=617,tf.top=10"][elsif exp="tf.layer==12"][eval exp="tf.left=-371,tf.top=10"][endif][move layer=&tf.layer time=%time|1500 path = '&@"(${tf.left},${tf.top},${tf.opa})(${tf.left+1000},${tf.top},${tf.opa})"' accel = -3][wm]
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : [macro name="移動左"]
+05:50:18 macro_game.ks : [eval exp="tf.chara=mp.chara"]
+05:50:18 macro_game.ks : [eval exp="tf.opa=255"]
+05:50:18 macro_game.ks : [if exp="tf.chara=='真里奈'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.marina1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='由衣'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.yui1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='七ノ羽'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.nanoha1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='時雨'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.shigure1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='モモケン'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.momoken1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='ミコト'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.mikoto1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='ドミトリー'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.domitori1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='ミキ'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.miki1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='あかね'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.akane1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='カズキ'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.kazuki1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='コウキ'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.kouki1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='千明'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.tiaki1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='睦月'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.mutuki1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='千歳'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.titose1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='美咲'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.misaki1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='柊父'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.hiragi1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='カスミ'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.kasumi1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='ハナ'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.hana1"]
+05:50:18 macro_game.ks : [else]
+05:50:18 macro_game.ks : [eval exp="tf.layer=17"]
+05:50:18 macro_game.ks : [endif]
+05:50:18 macro_game.ks : [if exp="tf.layer==13"]
+05:50:18 macro_game.ks : [eval exp="tf.left=483,tf.top=10"]
+05:50:18 macro_game.ks : [elsif exp="tf.layer==14"]
+05:50:18 macro_game.ks : [eval exp="tf.left=-237,tf.top=10"]
+05:50:18 macro_game.ks : [elsif exp="tf.layer==15"]
+05:50:18 macro_game.ks : [eval exp="tf.left=291,tf.top=10"]
+05:50:18 macro_game.ks : [elsif exp="tf.layer==16"]
+05:50:18 macro_game.ks : [eval exp="tf.left=-45,tf.top=10"]
+05:50:18 macro_game.ks : [elsif exp="tf.layer==17"]
+05:50:18 macro_game.ks : [eval exp="tf.left=123, tf.top=0"]
+05:50:18 macro_game.ks : [elsif exp="tf.layer==11"]
+05:50:18 macro_game.ks : [eval exp="tf.left=617,tf.top=10"]
+05:50:18 macro_game.ks : [elsif exp="tf.layer==12"]
+05:50:18 macro_game.ks : [eval exp="tf.left=-371,tf.top=10"]
+05:50:18 macro_game.ks : [endif]
+05:50:18 macro_game.ks : [move layer=&tf.layer time=%time|1500 path = '&@"(${tf.left},${tf.top},${tf.opa})(${tf.left-1000},${tf.top},${tf.opa})"' accel = -3]
+05:50:18 macro_game.ks : [wm]
+05:50:18 macro_game.ks : [endmacro]
+05:50:18 macro : 移動左 : [eval exp="tf.chara=mp.chara"][eval exp="tf.opa=255"][if exp="tf.chara=='真里奈'"][eval exp="tf.layer=&f.marina1"][elsif exp="tf.chara=='由衣'"][eval exp="tf.layer=&f.yui1"][elsif exp="tf.chara=='七ノ羽'"][eval exp="tf.layer=&f.nanoha1"][elsif exp="tf.chara=='時雨'"][eval exp="tf.layer=&f.shigure1"][elsif exp="tf.chara=='モモケン'"][eval exp="tf.layer=&f.momoken1"][elsif exp="tf.chara=='ミコト'"][eval exp="tf.layer=&f.mikoto1"][elsif exp="tf.chara=='ドミトリー'"][eval exp="tf.layer=&f.domitori1"][elsif exp="tf.chara=='ミキ'"][eval exp="tf.layer=&f.miki1"][elsif exp="tf.chara=='あかね'"][eval exp="tf.layer=&f.akane1"][elsif exp="tf.chara=='カズキ'"][eval exp="tf.layer=&f.kazuki1"][elsif exp="tf.chara=='コウキ'"][eval exp="tf.layer=&f.kouki1"][elsif exp="tf.chara=='千明'"][eval exp="tf.layer=&f.tiaki1"][elsif exp="tf.chara=='睦月'"][eval exp="tf.layer=&f.mutuki1"][elsif exp="tf.chara=='千歳'"][eval exp="tf.layer=&f.titose1"][elsif exp="tf.chara=='美咲'"][eval exp="tf.layer=&f.misaki1"][elsif exp="tf.chara=='柊父'"][eval exp="tf.layer=&f.hiragi1"][elsif exp="tf.chara=='カスミ'"][eval exp="tf.layer=&f.kasumi1"][elsif exp="tf.chara=='ハナ'"][eval exp="tf.layer=&f.hana1"][else][eval exp="tf.layer=17"][endif][if exp="tf.layer==13"][eval exp="tf.left=483,tf.top=10"][elsif exp="tf.layer==14"][eval exp="tf.left=-237,tf.top=10"][elsif exp="tf.layer==15"][eval exp="tf.left=291,tf.top=10"][elsif exp="tf.layer==16"][eval exp="tf.left=-45,tf.top=10"][elsif exp="tf.layer==17"][eval exp="tf.left=123, tf.top=0"][elsif exp="tf.layer==11"][eval exp="tf.left=617,tf.top=10"][elsif exp="tf.layer==12"][eval exp="tf.left=-371,tf.top=10"][endif][move layer=&tf.layer time=%time|1500 path = '&@"(${tf.left},${tf.top},${tf.opa})(${tf.left-1000},${tf.top},${tf.opa})"' accel = -3][wm]
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : [macro name="face"]
+05:50:18 macro_game.ks : [if exp="tf.chara=='真里奈'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.marina1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='由衣'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.yui1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='七ノ羽'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.nanoha1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='時雨'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.shigure1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='モモケン'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.momoken1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='ミコト'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.mikoto1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='ドミトリー'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.domitori1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='ミキ'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.miki1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='あかね'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.akane1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='カズキ'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.kazuki1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='コウキ'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.kouki1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='千明'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.tiaki1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='睦月'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.mutuki1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='千歳'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.titose1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='美咲'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.misaki1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='柊父'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.hiragi1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='カスミ'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.kasumi1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='ハナ'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=&f.hana1"]
+05:50:18 macro_game.ks : [else]
+05:50:18 macro_game.ks : [eval exp="tf.layer=17"]
+05:50:18 macro_game.ks : [endif]
+05:50:18 macro_game.ks : [if exp="tf.base!=void"]
+05:50:18 macro_game.ks : [eval exp="tf.base='fg/'+mp.base"]
+05:50:18 macro_game.ks : [pimage storage=&tf.base dx=0 dy=0 layer=&tf.layer]
+05:50:18 macro_game.ks : [eval exp="tf.emo=void"]
+05:50:18 macro_game.ks : [endif]
+05:50:18 macro_game.ks : [endmacro]
+05:50:18 macro : face : [if exp="tf.chara=='真里奈'"][eval exp="tf.layer=&f.marina1"][elsif exp="tf.chara=='由衣'"][eval exp="tf.layer=&f.yui1"][elsif exp="tf.chara=='七ノ羽'"][eval exp="tf.layer=&f.nanoha1"][elsif exp="tf.chara=='時雨'"][eval exp="tf.layer=&f.shigure1"][elsif exp="tf.chara=='モモケン'"][eval exp="tf.layer=&f.momoken1"][elsif exp="tf.chara=='ミコト'"][eval exp="tf.layer=&f.mikoto1"][elsif exp="tf.chara=='ドミトリー'"][eval exp="tf.layer=&f.domitori1"][elsif exp="tf.chara=='ミキ'"][eval exp="tf.layer=&f.miki1"][elsif exp="tf.chara=='あかね'"][eval exp="tf.layer=&f.akane1"][elsif exp="tf.chara=='カズキ'"][eval exp="tf.layer=&f.kazuki1"][elsif exp="tf.chara=='コウキ'"][eval exp="tf.layer=&f.kouki1"][elsif exp="tf.chara=='千明'"][eval exp="tf.layer=&f.tiaki1"][elsif exp="tf.chara=='睦月'"][eval exp="tf.layer=&f.mutuki1"][elsif exp="tf.chara=='千歳'"][eval exp="tf.layer=&f.titose1"][elsif exp="tf.chara=='美咲'"][eval exp="tf.layer=&f.misaki1"][elsif exp="tf.chara=='柊父'"][eval exp="tf.layer=&f.hiragi1"][elsif exp="tf.chara=='カスミ'"][eval exp="tf.layer=&f.kasumi1"][elsif exp="tf.chara=='ハナ'"][eval exp="tf.layer=&f.hana1"][else][eval exp="tf.layer=17"][endif][if exp="tf.base!=void"][eval exp="tf.base='fg/'+mp.base"][pimage storage=&tf.base dx=0 dy=0 layer=&tf.layer][eval exp="tf.emo=void"][endif]
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : [macro name="sleep"]
+05:50:18 macro_game.ks : [eval exp="tf.chara=mp.chara"]
+05:50:18 macro_game.ks : [eval exp="tf.opa=255"]
+05:50:18 macro_game.ks : [if exp="tf.chara=='真里奈'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=+&f.marina1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='由衣'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=+&f.yui1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='七ノ羽'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=+&f.nanoha1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='時雨'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=+&f.shigure1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='モモケン'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=+&f.momoken1"]
+05:50:18 macro_game.ks : [elsif exp="tf.chara=='ミコト'"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=+&f.mikoto1"]
+05:50:18 macro_game.ks : [else]
+05:50:18 macro_game.ks : [eval exp="tf.layer=17"]
+05:50:18 macro_game.ks : [endif]
+05:50:18 macro_game.ks : [if exp="tf.layer==13"]
+05:50:18 macro_game.ks : [eval exp="tf.left=483,tf.top=10"]
+05:50:18 macro_game.ks : [elsif exp="tf.layer==14"]
+05:50:18 macro_game.ks : [eval exp="tf.left=-237,tf.top=10"]
+05:50:18 macro_game.ks : [elsif exp="tf.layer==15"]
+05:50:18 macro_game.ks : [eval exp="tf.left=291,tf.top=10"]
+05:50:18 macro_game.ks : [elsif exp="tf.layer==16"]
+05:50:18 macro_game.ks : [eval exp="tf.left=-45,tf.top=10"]
+05:50:18 macro_game.ks : [elsif exp="tf.layer==17"]
+05:50:18 macro_game.ks : [eval exp="tf.left=123, tf.top=0"]
+05:50:18 macro_game.ks : [elsif exp="tf.layer==11"]
+05:50:18 macro_game.ks : [eval exp="tf.left=617,tf.top=10"]
+05:50:18 macro_game.ks : [elsif exp="tf.layer==12"]
+05:50:18 macro_game.ks : [eval exp="tf.left=-371,tf.top=10"]
+05:50:18 macro_game.ks : [endif]
+05:50:18 macro_game.ks : [move layer=&tf.layer time=1000 path = '&@"(${tf.left},${tf.top},${tf.opa})(${tf.left},${tf.top+200},${tf.opa})"' accel = -3]
+05:50:18 macro_game.ks : [wm]
+05:50:18 macro_game.ks : [endmacro]
+05:50:18 macro : sleep : [eval exp="tf.chara=mp.chara"][eval exp="tf.opa=255"][if exp="tf.chara=='真里奈'"][eval exp="tf.layer=+&f.marina1"][elsif exp="tf.chara=='由衣'"][eval exp="tf.layer=+&f.yui1"][elsif exp="tf.chara=='七ノ羽'"][eval exp="tf.layer=+&f.nanoha1"][elsif exp="tf.chara=='時雨'"][eval exp="tf.layer=+&f.shigure1"][elsif exp="tf.chara=='モモケン'"][eval exp="tf.layer=+&f.momoken1"][elsif exp="tf.chara=='ミコト'"][eval exp="tf.layer=+&f.mikoto1"][else][eval exp="tf.layer=17"][endif][if exp="tf.layer==13"][eval exp="tf.left=483,tf.top=10"][elsif exp="tf.layer==14"][eval exp="tf.left=-237,tf.top=10"][elsif exp="tf.layer==15"][eval exp="tf.left=291,tf.top=10"][elsif exp="tf.layer==16"][eval exp="tf.left=-45,tf.top=10"][elsif exp="tf.layer==17"][eval exp="tf.left=123, tf.top=0"][elsif exp="tf.layer==11"][eval exp="tf.left=617,tf.top=10"][elsif exp="tf.layer==12"][eval exp="tf.left=-371,tf.top=10"][endif][move layer=&tf.layer time=1000 path = '&@"(${tf.left},${tf.top},${tf.opa})(${tf.left},${tf.top+200},${tf.opa})"' accel = -3][wm]
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : [macro name="shading"]
+05:50:18 macro_game.ks : [image layer=%layer|30 storage="image/sprite/black_50.png" page=fore visible=true]
+05:50:18 macro_game.ks : [endmacro]
+05:50:18 macro : shading : [image layer=%layer|30 storage="image/sprite/black_50.png" page=fore visible=true]
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : [macro name="処女膜教授"]
+05:50:18 macro_game.ks : [backlay]
+05:50:18 macro_game.ks : [eval exp="tf.base='fg/'+mp.src"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=17, tf.left=123, tf.top=0"]
+05:50:18 macro_game.ks : [eval exp="tf.left=mp.left" cond="mp.left"]
+05:50:18 macro_game.ks : [eval exp="tf.top=mp.top" cond="mp.top"]
+05:50:18 macro_game.ks : [image storage=&tf.base layer=&tf.layer left=%left|123 top=%top|0 page=back visible=%visible|true fliplr=%fliplr|false rgamma=&tf.rgamma rceil=&tf.rceil gceil=&tf.gceil bceil=&tf.bceil]
+05:50:18 macro_game.ks : [trans time=%time|180 method=%method|crossfade]
+05:50:18 macro_game.ks : [wt canskip=%canskip|true]
+05:50:18 macro_game.ks : [endmacro]
+05:50:18 macro : 処女膜教授 : [backlay][eval exp="tf.base='fg/'+mp.src"][eval exp="tf.layer=17, tf.left=123, tf.top=0"][eval exp="tf.left=mp.left" cond="mp.left"][eval exp="tf.top=mp.top" cond="mp.top"][image storage=&tf.base layer=&tf.layer left=%left|123 top=%top|0 page=back visible=%visible|true fliplr=%fliplr|false rgamma=&tf.rgamma rceil=&tf.rceil gceil=&tf.gceil bceil=&tf.bceil][trans time=%time|180 method=%method|crossfade][wt canskip=%canskip|true]
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : [macro name="chara_dog"]
+05:50:18 macro_game.ks : [backlay]
+05:50:18 macro_game.ks : [eval exp="tf.base='fg/'+mp.src"]
+05:50:18 macro_game.ks : [eval exp="tf.layer=17, tf.left=123, tf.top=0"]
+05:50:18 macro_game.ks : [eval exp="tf.left=mp.left" cond="mp.left"]
+05:50:18 macro_game.ks : [eval exp="tf.top=mp.top" cond="mp.top"]
+05:50:18 macro_game.ks : [image storage=&tf.base layer=&tf.layer left=%left|123 top=%top|0 page=back visible=%visible|true fliplr=%fliplr|false rgamma=&tf.rgamma rceil=&tf.rceil gceil=&tf.gceil bceil=&tf.bceil]
+05:50:18 macro_game.ks : [trans time=%time|180 method=%method|crossfade]
+05:50:18 macro_game.ks : [wt canskip=%canskip|true]
+05:50:18 macro_game.ks : [endmacro]
+05:50:18 macro : chara_dog : [backlay][eval exp="tf.base='fg/'+mp.src"][eval exp="tf.layer=17, tf.left=123, tf.top=0"][eval exp="tf.left=mp.left" cond="mp.left"][eval exp="tf.top=mp.top" cond="mp.top"][image storage=&tf.base layer=&tf.layer left=%left|123 top=%top|0 page=back visible=%visible|true fliplr=%fliplr|false rgamma=&tf.rgamma rceil=&tf.rceil gceil=&tf.gceil bceil=&tf.bceil][trans time=%time|180 method=%method|crossfade][wt canskip=%canskip|true]
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : [macro name="whiteout"]
+05:50:18 macro_game.ks : [image layer=base storage="bg/white.jpg"]
+05:50:18 macro_game.ks : [eval exp="tf.cmnd=mp.cmnd"]
+05:50:18 macro_game.ks : [messageon]
+05:50:18 macro_game.ks : ……
+05:50:18 macro_game.ks : [lr]
+05:50:18 macro_game.ks : [eh]
+05:50:18 macro_game.ks : [if exp="tf.cmnd=='Bg'"]
+05:50:18 macro_game.ks : [bg src=%src]
+05:50:18 macro_game.ks : [elsif exp="tf.cmnd=='BgEvent'"]
+05:50:18 macro_game.ks : [cg src=%src]
+05:50:18 macro_game.ks : [endif]
+05:50:18 macro_game.ks : [endmacro]
+05:50:18 macro : whiteout : [image layer=base storage="bg/white.jpg"][eval exp="tf.cmnd=mp.cmnd"][messageon]……[lr][eh][if exp="tf.cmnd=='Bg'"][bg src=%src][elsif exp="tf.cmnd=='BgEvent'"][cg src=%src][endif]
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : [macro name="whitein"]
+05:50:18 macro_game.ks : [spriteoff]
+05:50:18 macro_game.ks : [noch]
+05:50:18 macro_game.ks : [image layer=base storage="bg/white.jpg"]
+05:50:18 macro_game.ks : [wait time=1000]
+05:50:18 macro_game.ks : [endmacro]
+05:50:18 macro : whitein : [spriteoff][noch][image layer=base storage="bg/white.jpg"][wait time=1000]
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : 
+05:50:18 macro_game.ks : [return]
+05:50:18 ================================================================================
+05:50:18 Scenario loaded : first.ks
+05:50:18 first.ks : returned to : (start) line offset 14
+05:50:18 first.ks : call stack depth after returning : 0
+05:50:18 first.ks : [call storage="ExtHistoryLayer.ks"]
+05:50:18 first.ks : call stack depth before calling : 0
+05:50:18 ================================================================================
+05:50:18 Scenario loaded : ExtHistoryLayer.ks
+05:50:18 ExtHistoryLayer.ks : [return cond="typeof(.ExtHistoryLayer) != 'undefined'"]
+05:50:18 ExtHistoryLayer.ks : 
+05:50:18 ExtHistoryLayer.ks : 
+05:50:18 ExtHistoryLayer.ks : [call storage=TJSFunctions.ks]
+05:50:18 ExtHistoryLayer.ks : call stack depth before calling : 1
+05:50:18 ================================================================================
+05:50:18 Scenario loaded : TJSFunctions.ks
+05:50:18 TJSFunctions.ks : [return cond="typeof(global.TJSFunctions) != 'undefined'"]
+05:50:18 TJSFunctions.ks : 
+05:50:18 TJSFunctions.ks : 
+05:50:18 TJSFunctions.ks : 
+05:50:18 TJSFunctions.ks : 
+05:50:18 TJSFunctions.ks : [return]
+05:50:18 ================================================================================
+05:50:18 Scenario loaded : ExtHistoryLayer.ks
+05:50:18 ExtHistoryLayer.ks : returned to : (start) line offset 18
+05:50:18 ExtHistoryLayer.ks : call stack depth after returning : 1
+05:50:18 ExtHistoryLayer.ks : 
+05:50:18 ExtHistoryLayer.ks : 
+05:50:18 ExtHistoryLayer.ks : 
+05:50:18 ExtHistoryLayer.ks : [if exp="Storages.isExistentStorage('eruby.ks')"]
+05:50:18 ExtHistoryLayer.ks : [call storage=RenameKAGTag.ks]
+05:50:18 ExtHistoryLayer.ks : 
+05:50:18 ExtHistoryLayer.ks : [call storage=eruby.ks]
+05:50:18 ExtHistoryLayer.ks : [renamemacro from=eruby to=eruby_exthistorylayer_org]
+05:50:18 ExtHistoryLayer.ks : [macro name="eruby"]
+05:50:18 ExtHistoryLayer.ks : [eval exp="mp.historyWriteEnabled_save = kag.historyWriteEnabled"]
+05:50:18 ExtHistoryLayer.ks : [history output=false]
+05:50:18 ExtHistoryLayer.ks : [eruby_exthistorylayer_org *]
+05:50:18 ExtHistoryLayer.ks : [history output=true cond="mp.historyWriteEnabled_save"]
+05:50:18 ExtHistoryLayer.ks : [eval exp="mp.align = 'e'" cond="mp.align === void"]
+05:50:18 ExtHistoryLayer.ks : [eval exp="storeTag('hruby', mp)"]
+05:50:18 ExtHistoryLayer.ks : [endmacro]
+05:50:18 ExtHistoryLayer.ks : [endif]
+05:50:18 ExtHistoryLayer.ks : 
+05:50:18 ExtHistoryLayer.ks : 
+05:50:18 ExtHistoryLayer.ks : 
+05:50:18 ExtHistoryLayer.ks : [return]
+05:50:18 ================================================================================
+05:50:18 Scenario loaded : first.ks
+05:50:18 first.ks : returned to : (start) line offset 15
+05:50:18 first.ks : call stack depth after returning : 0
+05:50:18 first.ks : [if exp="sf.first_flag!=1"]
+05:50:18 first.ks : [call storage="scenario/reinit_config.ks" target=*init_config]
+05:50:18 first.ks : call stack depth before calling : 0
+05:50:18 ================================================================================
+05:50:18 Scenario loaded : scenario/reinit_config.ks
+05:50:18 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+05:50:18 reinit_config.ks : jumped to : *init_config
+05:50:18 reinit_config.ks : [call storage="scenario/sys/sound_init.ks" target=*sound_init_top]
+05:50:18 reinit_config.ks : call stack depth before calling : 1
+05:50:18 ================================================================================
+05:50:18 Scenario loaded : scenario/sys/sound_init.ks
+05:50:18 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+05:50:18 sound_init.ks : jumped to : *sound_init_top
+05:50:18 sound_init.ks : 
+05:50:18 sound_init.ks : [eval exp="tf.volume = sf.volume_master * 10"]
+05:50:18 sound_init.ks : [seopt volume="&tf.volume" buf=21]
+05:50:18 sound_init.ks : 
+05:50:18 sound_init.ks : 
+05:50:18 sound_init.ks : 
+05:50:18 sound_init.ks : [eval exp="tf.volume = sf.volume_bgm * sf.volume_master"]
+05:50:18 sound_init.ks : [bgmopt gvolume="&tf.volume" volume=100]
+05:50:18 sound_init.ks : 
+05:50:18 sound_init.ks : 
+05:50:18 sound_init.ks : [eval exp="tf.volume = sf.volume_se * sf.volume_master"]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume" buf=21]
+05:50:18 sound_init.ks : 
+05:50:18 sound_init.ks : [if exp="sf.se_on==1"]
+05:50:18 sound_init.ks : [eval exp="tf.volume1 = sf.volume_se * sf.volume_master"]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume1" volume="&tf.volume" buf=0]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume1" volume="&tf.volume" buf=1]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume1" volume="&tf.volume" buf=2]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume1" volume="&tf.volume" buf=3]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume1" volume="&tf.volume" buf=4]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume1" volume="&tf.volume" buf=5]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume1" volume="&tf.volume" buf=6]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume1" volume="&tf.volume" buf=7]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume1" volume="&tf.volume" buf=8]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume1" volume="&tf.volume" buf=9]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume1" volume="&tf.volume" buf=10]
+05:50:18 sound_init.ks : [elsif exp="sf.se_on==2"]
+05:50:18 sound_init.ks : [eval exp="tf.volume1 = 0"]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume1" volume="&tf.volume" buf=0]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume1" volume="&tf.volume" buf=1]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume1" volume="&tf.volume" buf=2]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume1" volume="&tf.volume" buf=3]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume1" volume="&tf.volume" buf=4]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume1" volume="&tf.volume" buf=5]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume1" volume="&tf.volume" buf=6]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume1" volume="&tf.volume" buf=7]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume1" volume="&tf.volume" buf=8]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume1" volume="&tf.volume" buf=9]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume1" volume="&tf.volume" buf=10]
+05:50:18 sound_init.ks : [endif]
+05:50:18 sound_init.ks : 
+05:50:18 sound_init.ks : [eval exp="tf.volume = sf.volume_master * sf.volume_voice * sf.volume_voice_chara[1] / 10"]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume" volume=100 buf=11]
+05:50:18 sound_init.ks : [eval exp="tf.volume = sf.volume_master * sf.volume_voice * sf.volume_voice_chara[2] / 10"]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume" volume=100 buf=12]
+05:50:18 sound_init.ks : [eval exp="tf.volume = sf.volume_master * sf.volume_voice * sf.volume_voice_chara[3] / 10"]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume" volume=100 buf=13]
+05:50:18 sound_init.ks : [eval exp="tf.volume = sf.volume_master * sf.volume_voice * sf.volume_voice_chara[4] / 10"]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume" volume=100 buf=14]
+05:50:18 sound_init.ks : [eval exp="tf.volume = sf.volume_master * sf.volume_voice * sf.volume_voice_chara[5] / 10"]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume" volume=100 buf=15]
+05:50:18 sound_init.ks : [eval exp="tf.volume = sf.volume_master * sf.volume_voice * sf.volume_voice_chara[6] / 10"]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume" volume=100 buf=16]
+05:50:18 sound_init.ks : [eval exp="tf.volume = sf.volume_master * sf.volume_voice * sf.volume_voice_chara[7] / 10"]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume" volume=100 buf=17]
+05:50:18 sound_init.ks : [eval exp="tf.volume = sf.volume_master * sf.volume_voice * sf.volume_voice_chara[8] / 10"]
+05:50:18 sound_init.ks : [seopt gvolume="&tf.volume" volume=100 buf=18]
+05:50:18 sound_init.ks : 
+05:50:18 sound_init.ks : [return]
+05:50:18 ================================================================================
+05:50:18 Scenario loaded : scenario/reinit_config.ks
+05:50:18 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+05:50:18 reinit_config.ks : jumped to : *init_config
+05:50:18 reinit_config.ks : returned to : *init_config line offset 50
+05:50:18 reinit_config.ks : call stack depth after returning : 1
+05:50:18 reinit_config.ks : [return]
+05:50:18 ================================================================================
+05:50:18 Scenario loaded : first.ks
+05:50:18 first.ks : returned to : (start) line offset 17
+05:50:18 first.ks : call stack depth after returning : 0
+05:50:18 first.ks : [endif]
+05:50:18 first.ks : [eval exp="sf.first_flag=1"]
+05:50:18 first.ks : [call storage="music_mode_init.ks"]
+05:50:18 first.ks : call stack depth before calling : 0
+05:50:18 (info) 自動検索パステーブルを再構築しています ...
+05:50:18 (info) Total 69 file(s) found, 69 file(s) activated. (4ms)
+05:50:18 ================================================================================
+05:50:18 Scenario loaded : music_mode_init.ks
+05:50:18 music_mode_init.ks : 
+05:50:18 music_mode_init.ks : @macro name=flagmusic
+05:50:18 music_mode_init.ks : @eval exp="sf.music_flag[music.music_storage.find('sound/bgm/'+mp.src)] = true"
+05:50:18 music_mode_init.ks : @endmacro
+05:50:18 macro : flagmusic : [eval exp="sf.music_flag[music.music_storage.find('sound/bgm/'+mp.src)] = true"]
+05:50:18 music_mode_init.ks : 
+05:50:18 music_mode_init.ks : @call storage=KLayers.ks
+05:50:18 music_mode_init.ks : call stack depth before calling : 1
+05:50:18 ================================================================================
+05:50:18 Scenario loaded : KLayers.ks
+05:50:18 KLayers.ks : [return cond="typeof(global.KLayersLoaded) != 'undefined'"]
+05:50:18 KLayers.ks : 
+05:50:18 KLayers.ks : 
+05:50:18 KLayers.ks : 
+05:50:18 KLayers.ks : 
+05:50:18 KLayers.ks : [call storage="TJSFunctions.ks"]
+05:50:18 KLayers.ks : call stack depth before calling : 2
+05:50:18 ================================================================================
+05:50:18 Scenario loaded : TJSFunctions.ks
+05:50:18 TJSFunctions.ks : [return cond="typeof(global.TJSFunctions) != 'undefined'"]
+05:50:18 ================================================================================
+05:50:18 Scenario loaded : KLayers.ks
+05:50:18 KLayers.ks : returned to : (start) line offset 39
+05:50:18 KLayers.ks : call stack depth after returning : 2
+05:50:18 KLayers.ks : 
+05:50:18 KLayers.ks : 
+05:50:18 KLayers.ks : [return]
+05:50:18 ================================================================================
+05:50:18 Scenario loaded : music_mode_init.ks
+05:50:18 music_mode_init.ks : returned to : (start) line offset 193
+05:50:18 music_mode_init.ks : call stack depth after returning : 1
+05:50:18 music_mode_init.ks : @call storage=TJSFunctions.ks
+05:50:18 music_mode_init.ks : call stack depth before calling : 1
+05:50:18 ================================================================================
+05:50:18 Scenario loaded : TJSFunctions.ks
+05:50:18 TJSFunctions.ks : [return cond="typeof(global.TJSFunctions) != 'undefined'"]
+05:50:18 ================================================================================
+05:50:18 Scenario loaded : music_mode_init.ks
+05:50:18 music_mode_init.ks : returned to : (start) line offset 194
+05:50:18 music_mode_init.ks : call stack depth after returning : 1
+05:50:18 music_mode_init.ks : 
+05:50:18 music_mode_init.ks : @return
+05:50:18 ================================================================================
+05:50:18 Scenario loaded : first.ks
+05:50:18 first.ks : returned to : (start) line offset 20
+05:50:18 first.ks : call stack depth after returning : 0
+05:50:18 first.ks : [call storage="scenario/sys/cg_mode_init.ks"]
+05:50:18 first.ks : call stack depth before calling : 0
+05:50:18 ================================================================================
+05:50:18 Scenario loaded : scenario/sys/cg_mode_init.ks
+05:50:18 cg_mode_init.ks : 
+05:50:18 cg_mode_init.ks : @macro name=flagcg
+05:50:18 cg_mode_init.ks : @eval exp="flagcg(mp)"
+05:50:18 cg_mode_init.ks : @endmacro
+05:50:18 macro : flagcg : [eval exp="flagcg(mp)"]
+05:50:18 cg_mode_init.ks : @macro name=flagnanoha
+05:50:18 cg_mode_init.ks : @eval exp="flagnanoha(mp)"
+05:50:18 cg_mode_init.ks : @endmacro
+05:50:18 macro : flagnanoha : [eval exp="flagnanoha(mp)"]
+05:50:18 cg_mode_init.ks : @macro name=flagmarina
+05:50:18 cg_mode_init.ks : @eval exp="flagmarina(mp)"
+05:50:18 cg_mode_init.ks : @endmacro
+05:50:18 macro : flagmarina : [eval exp="flagmarina(mp)"]
+05:50:18 cg_mode_init.ks : @macro name=flagshigure
+05:50:18 cg_mode_init.ks : @eval exp="flagshigure(mp)"
+05:50:18 cg_mode_init.ks : @endmacro
+05:50:18 macro : flagshigure : [eval exp="flagshigure(mp)"]
+05:50:18 cg_mode_init.ks : @macro name=flagmikoto
+05:50:18 cg_mode_init.ks : @eval exp="flagmikoto(mp)"
+05:50:18 cg_mode_init.ks : @endmacro
+05:50:18 macro : flagmikoto : [eval exp="flagmikoto(mp)"]
+05:50:18 cg_mode_init.ks : @macro name=flagother
+05:50:18 cg_mode_init.ks : @eval exp="flagother(mp)"
+05:50:18 cg_mode_init.ks : @endmacro
+05:50:18 macro : flagother : [eval exp="flagother(mp)"]
+05:50:18 cg_mode_init.ks : 
+05:50:18 cg_mode_init.ks : 
+05:50:18 cg_mode_init.ks : @return
+05:50:18 ================================================================================
+05:50:18 Scenario loaded : first.ks
+05:50:18 first.ks : returned to : (start) line offset 21
+05:50:18 first.ks : call stack depth after returning : 0
+05:50:18 first.ks : 
+05:50:18 first.ks : [image storage="image/splash/white" layer=base page=fore]
+05:50:18 image/splash/white の読み込みに 142ms かかりました
+05:50:18 first.ks : [backlay]
+05:50:19 first.ks : [image storage="image/splash/splash_caution00" layer=base page=back]
+05:50:19 image/splash/splash_caution00 の読み込みに 59ms かかりました
+05:50:19 first.ks : [trans method=crossfade time=1000][wt canskip=false]
+05:50:24 first.ks : [wait time=2000]
+05:50:26 (info) CPU clock : 1498.1MHz
+05:50:26 first.ks : [backlay]
+05:50:27 first.ks : [image storage="image/splash/black" layer=base page=back]
+05:50:27 image/splash/black の読み込みに 326ms かかりました
+05:50:27 first.ks : [trans method=crossfade time=1000][wt]
+05:50:32 first.ks : [backlay]
+05:50:32 first.ks : [image storage="image/splash/splash_caution01" layer=base page=back]
+05:50:33 image/splash/splash_caution01 の読み込みに 794ms かかりました
+05:50:33 first.ks : [trans method=crossfade time=1000][wt]
+05:50:37 first.ks : [wait time=3000]
+05:50:40 first.ks : [backlay]
+05:50:40 first.ks : [image storage="image/splash/black" layer=base page=back]
+05:50:40 image/splash/black の読み込みに 0ms かかりました
+05:50:40 first.ks : [trans method=crossfade time=1000][wt]
+05:50:44 first.ks : [wait time=1000]
+05:50:45 first.ks : [backlay]
+05:50:45 first.ks : 
+05:50:45 first.ks : [jump storage="title.ks"]
+05:50:45 ================================================================================
+05:50:45 Scenario loaded : title.ks
+05:50:45 title.ks : [eval exp="sf.endflag='true'"]
+05:50:45 title.ks : 
+05:50:45 title.ks : ラベル/ページ : *title_menu/タイトル
+05:50:45 title.ks : [startanchor enabled=true]
+05:50:45 title.ks : [eval exp="tf.now=1"]
+05:50:45 title.ks : [eval exp="tf.extraon=0"]
+05:50:45 title.ks : [rclick call=false jump=false enabled=false]
+05:50:45 title.ks : [history enabled="false" output="false"]
+05:50:45 (info) 自動検索パステーブルを再構築しています ...
+05:50:45 (info) Total 69 file(s) found, 69 file(s) activated. (5ms)
+05:50:46 title.ks : [image storage="image/title/top" layer=base page=back]
+05:50:46 image/title/top の読み込みに 269ms かかりました
+05:50:46 title.ks : [layopt layer=message13 visible=true page=back]
+05:50:46 title.ks : [current layer=message13 page=back]
+05:50:46 title.ks : [locate x=14 y=636]
+05:50:46 title.ks : [button onleave="sse_stop(1)" onenter="sse_play(1)" clickse="sound/sse/system_collect" clicksebuf=1 graphic="image/title/gamestart.png" target=*start]
+05:50:46 title.ks : [locate x=194 y=636]
+05:50:46 title.ks : [button onleave="sse_stop(2)" onenter="sse_play(2)" clickse="sound/sse/system_collect" clicksebuf=2 graphic="image/title/continue.png" target=*title_load]
+05:50:46 title.ks : [locate x=912 y=636]
+05:50:46 title.ks : [button onleave="sse_stop(3)" onenter="sse_play(3)" clickse="sound/sse/system_collect" clicksebuf=3 graphic="image/title/config.png" target=*title_config]
+05:50:46 title.ks : [locate x=1092 y=636]
+05:50:46 title.ks : [button onleave="sse_stop(4)" onenter="sse_play(4)" clickse="sound/sse/system_collect" clicksebuf=4 graphic="image/title/exit.png" target=*title_exit]
+05:50:46 title.ks : [locate x=1133 y=10]
+05:50:46 title.ks : [if exp="sf.mikoto_end==1"]
+05:50:46 title.ks : [button clicksebuf=4 graphic="image/title/logo_button.png" target=*stuffroom]
+05:50:46 title.ks : [endif]
+05:50:46 title.ks : [locate x=14 y=0]
+05:50:46 title.ks : [if exp="sf.yui_badend==1 || sf.shigure_end==1 || sf.marina_end==1 || sf.nanoha_end==1"]
+05:50:46 title.ks : [button onleave="sse_stop(5)" onenter="sse_play(5)" clickse="sound/sse/system_collect" clicksebuf=5 graphic= "image/title/extra.png" target=*title_extra]
+05:50:46 title.ks : [endif]
+05:50:46 title.ks : [trans method=crossfade time=1500][wt]
+05:50:51 title.ks : [s]
+05:51:31 (info) DirectSound Driver/Device found : Primary Sound Driver
+05:51:32 (info) DirectSound Driver/Device found : Speakers (PulseAudio Output) [{0.0.0.00000000}.{503FDAE2-23EF-4FA3-8A60-5D020F85EEAB} ... is not found in search path]
+05:51:32 (info) DirectSound Driver/Device found : Speakers (GameSink) [{0.0.0.00000000}.{5FBAC4D2-F8BD-49BF-BB1F-AAA44F9F9223} ... is not found in search path]
+05:51:32 (info) Accepted DirectSound primary buffer format : format container = WAVE_FORMAT_EXTENSIBLE, frequency = 44100Hz, bits = 16bits, channels = 2, valid bits = 16bits, channel mask = 0x00000003, sub type = KSDATAFORMAT_SUBTYPE_PCM
+05:51:33 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+05:51:33 title.ks : jumped to : *start
+05:51:33 処理を開始します
+05:51:33 title.ks : [cm]
+05:51:33 title.ks : [layopt layer=message13 visible=false]
+05:51:33 title.ks : [backlay]
+05:51:33 title.ks : [if exp="tf.extraon==1"]
+05:51:33 title.ks : [eval exp="tf.extraon=0"]
+05:51:33 title.ks : [endif]
+05:51:33 title.ks : [image storage="image/splash/black" layer=base page=back]
+05:51:33 image/splash/black の読み込みに 119ms かかりました
+05:51:33 title.ks : [trans method=crossfade time=1000][wt]
+05:51:37 title.ks : [wait time=1000]
+05:51:38 title.ks : [backlay]
+05:51:38 title.ks : [delay speed=user]
+05:51:38 title.ks : 
+05:51:38 title.ks : [jump storage="scenario/script/start.ks"]
+05:51:38 ================================================================================
+05:51:38 Scenario loaded : scenario/script/start.ks
+05:51:38 start.ks : 
+05:51:38 start.ks : [eval exp="f.kstitle = '0_1'"]
+05:51:38 start.ks : [eval exp="f.labeltitle = '5月 8日'"]
+05:51:38 start.ks : [eval exp="f.labelnum = 1"]
+05:51:38 start.ks : [eval exp="tf.now = 2"]
+05:51:38 start.ks : [eval exp="f.messwin=0"]
+05:51:38 start.ks : [eval exp="f.name=0"]
+05:51:38 start.ks : [rclick enabled=true name=default call=false jump=false]
+05:51:38 start.ks : [history enabled="true" output="true"]
+05:51:38 start.ks : [clickskip enabled=true]
+05:51:38 scenario/script/start.ks : ラベル/ページ : *label/5月 8日
+05:51:38 start.ks : [eval exp="f.labelnum = f.labelnum + 1"]
+05:51:38 start.ks : [eval exp="sf.labelcheck = [] if sf.labelcheck === void"]
+05:51:38 start.ks : 
+05:51:38 start.ks : [eval exp="f.lv_stage=0"]
+05:51:38 start.ks : [eval exp="f.lv_yui=0"]
+05:51:38 start.ks : [eval exp="f.lv_nanoha=0"]
+05:51:38 start.ks : [eval exp="f.lv_marina=0"]
+05:51:38 start.ks : [eval exp="f.lv_shigure=0"]
+05:51:38 start.ks : [eval exp="f.lv_radio=0"]
+05:51:38 start.ks : 
+05:51:38 start.ks : [eval exp="f.lv_yui02=0"]
+05:51:38 start.ks : [eval exp="f.lv_nanoha02=0"]
+05:51:38 start.ks : [eval exp="f.lv_marina02=0"]
+05:51:38 start.ks : [eval exp="f.lv_shigure02=0"]
+05:51:38 start.ks : [jump storage="scenario/script/0508.ks"]
+05:51:38 ================================================================================
+05:51:38 Scenario loaded : scenario/script/0508.ks
+05:51:38 0508.ks : [eval exp="f.labeltitle = '夢'"]
+05:51:38 scenario/script/0508.ks : ラベル/ページ : *label/夢
+05:51:38 0508.ks : @eh
+05:51:38 image/game/textbox.png の読み込みに 37ms かかりました
+05:51:41 0508.ks : @image layer=base storage="bg/black"
+05:51:42 bg/black の読み込みに 296ms かかりました
+05:51:42 0508.ks : @bgm src=BGM09_dream
+05:51:42 0508.ks : @bg src=bg_99-a 
+05:51:42 bg/bg_99-a の読み込みに 386ms かかりました
+05:51:45 0508.ks : @sprite_dream
+05:51:46 image/game/opacity.png の読み込みに 549ms かかりました
+05:51:46 image/game/opacity.png の読み込みに 7ms かかりました
+05:51:47 image/sprite/white_99.png の読み込みに 404ms かかりました
+05:51:50 image/sprite/date_dream.png の読み込みに 279ms かかりました
+05:51:55 image/game/textbox.png の読み込みに 1ms かかりました
+05:51:58 0508.ks : @noname
+05:51:58 0508.ks : もう１年近く、夜明けが来ていないこの丘。
+05:52:01 0508.ks : @lr
+05:52:40 scenario/script/0508.ks : ラベル/ページ : *label:2/夢
+05:52:40 0508.ks : @eh
+05:52:41 0508.ks : 
+05:52:41 0508.ks : 
+05:52:41 0508.ks : 
+05:52:41 0508.ks : @noname
+05:52:41 0508.ks : ここでは、一人の少女がいつも俺のことを待っている。
+05:52:47 0508.ks : @lr
+05:52:54 scenario/script/0508.ks : ラベル/ページ : *label:3/夢
+05:52:55 0508.ks : @eh
+05:52:55 0508.ks : 
+05:52:55 0508.ks : @chara base=Mikoto/t_miko_a-b_M face=Mikoto/face/t_miko_a-101_M.png pos=c mov=on
+05:52:56 fg/Mikoto/t_miko_a-b_M の読み込みに 263ms かかりました
+05:53:01 0508.ks : @chara base=Mikoto/t_miko_a-b_M face=Mikoto/face/t_miko_a-007_M.png pos=c
+05:53:01 fg/Mikoto/t_miko_a-b_M の読み込みに 1ms かかりました
+05:53:06 0508.ks : @name src=？？？
+05:53:07 0508.ks : @v src=Mikoto/V_mik0000.ogg buf=15
+05:53:07 0508.ks : @hbutton exp="kag.se[20].volume2=kag.se[15].volume2,kag.se[20].play(%['storage'=>'sound/voice/Mikoto/V_mik0000.ogg'])" graphic=image/backlog/PLAY_button idx=7
+05:53:08 0508.ks : 「こんにちは！　うーんと……、はじめ、まして？」
+05:53:08 0508.ks : @endvoice
+05:53:08 0508.ks : @lr
+05:53:22 scenario/script/0508.ks : ラベル/ページ : *label:4/夢
+05:53:23 0508.ks : @eh
+05:53:23 0508.ks : 
+05:53:23 0508.ks : @name src=キミト
+05:53:25 0508.ks : 「……違うよ」
+05:53:28 0508.ks : @lr

@@ -1,0 +1,9 @@
+XIO:  fatal IO error 0 (Success) on X server ":118"
+      after 4926 requests (4926 known processed) with 0 events remaining.
+/home/hatch/workspace/dmm-trials/tools/twm-root/usr/bin/twm:  unable to open display ":118"
+/home/hatch/workspace/dmm-trials/tools/twm-root/usr/bin/twm:  unable to open display ":118"
+/home/hatch/workspace/dmm-trials/tools/twm-root/usr/bin/twm:  unable to open display ":118"
+/home/hatch/workspace/dmm-trials/tools/twm-root/usr/bin/twm:  unable to open display ":118"
+/home/hatch/workspace/dmm-trials/tools/twm-root/usr/bin/twm:  unable to open display ":118"
+/home/hatch/workspace/dmm-trials/tools/twm-root/usr/bin/twm:  another window manager is already running. on screen 0?
+/home/hatch/workspace/dmm-trials/tools/twm-root/usr/bin/twm:  unable to find any unmanaged video screens.

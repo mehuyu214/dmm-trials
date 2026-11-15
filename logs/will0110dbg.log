@@ -1,0 +1,74 @@
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/i386-unix/wine-preloader -> /home/hatch/workspace/win32-compat/wrap/w10524857318775472579.sh
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/../../bin/wineserver -> /home/hatch/workspace/win32-compat/wrap/w4412266678325573379.sh
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/i386-unix/wine-preloader -> /home/hatch/workspace/win32-compat/wrap/w10524857318775472579.sh
+002c:err:wineboot:process_run_key Error running cmd L"C:\\windows\\system32\\winemenubuilder.exe -a -r" (2).
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/i386-unix/wine-preloader -> /home/hatch/workspace/win32-compat/wrap/w10524857318775472579.sh
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/i386-unix/wine-preloader -> /home/hatch/workspace/win32-compat/wrap/w10524857318775472579.sh
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/i386-unix/wine-preloader -> /home/hatch/workspace/win32-compat/wrap/w10524857318775472579.sh
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/i386-unix/wine-preloader -> /home/hatch/workspace/win32-compat/wrap/w10524857318775472579.sh
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/i386-unix/wine-preloader -> /home/hatch/workspace/win32-compat/wrap/w10524857318775472579.sh
+009c:err:ntoskrnl:ZwLoadDriver failed to create driver L"\\Registry\\Machine\\System\\CurrentControlSet\\Services\\winebus": c0000135
+0034:fixme:service:scmdatabase_autostart_services Auto-start service L"winebus" failed to start: 126
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/i386-unix/wine-preloader -> /home/hatch/workspace/win32-compat/wrap/w10524857318775472579.sh
+00bc:err:wineusb:DriverEntry Failed to initialize Unix library, status 0xc0000135.
+00bc:err:ntoskrnl:ZwLoadDriver failed to create driver L"\\Registry\\Machine\\System\\CurrentControlSet\\Services\\wineusb": c0000135
+0034:fixme:service:scmdatabase_autostart_services Auto-start service L"wineusb" failed to start: 126
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/i386-unix/wine-preloader -> /home/hatch/workspace/win32-compat/wrap/w10524857318775472579.sh
+00d4:err:ntoskrnl:ZwLoadDriver failed to create driver L"\\Registry\\Machine\\System\\CurrentControlSet\\Services\\winebth": c00000e5
+0034:fixme:service:scmdatabase_autostart_services Auto-start service L"winebth" failed to start: 1359
+00dc:err:seh:segv_handler Got unexpected trap -1
+00dc:err:virtual:virtual_setup_exception nested exception on signal stack addr 0x406097c6 stack 0xf1f0d4
+wine: could not open working directory L"\\\\?\\unix\\home\\hatch\\workspace\\dmm-trials\\will_0110\\\fffdw\fffdR\fffdR\fffd\fffd\fffd\fffd\fffdt\fffd@\fffd\fffd\fffdN\fffdV\fffd\fffd\fffd\fffd\fffdI\fffdx\fffd{\fffd\0490\fffd\fffd\0603\fffd\fffd[\fffdg\fffd\0642\0691S\fffd\fffd\fffd\030c\fffd\fffd\fffd\\", starting in the Windows directory.
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/i386-unix/wine-preloader -> /home/hatch/workspace/win32-compat/wrap/w10524857318775472579.sh
+00e8:err:vulkan:vulkan_init_once Failed to load libvulkan.so.1
+libEGL warning: DRI3 error: Could not get DRI3 device
+libEGL warning: Ensure your X server supports DRI3 to get accelerated rendering
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/i386-unix/wine-preloader -> /home/hatch/workspace/win32-compat/wrap/w10524857318775472579.sh
+0024:err:winediag:wined3d_dll_init Setting multithreaded command stream to 0x1.
+0024:err:winediag:process_attach failed to load libgnutls, no support for pfx import/export
+0024:fixme:msvcrt:__clean_type_info_names_internal (10025340) stub
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/i386-unix/wine-preloader -> /home/hatch/workspace/win32-compat/wrap/w10524857318775472579.sh
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/../../bin/wineserver -> /home/hatch/workspace/win32-compat/wrap/w4412266678325573379.sh
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/i386-unix/wine-preloader -> /home/hatch/workspace/win32-compat/wrap/w10524857318775472579.sh
+002c:err:wineboot:process_run_key Error running cmd L"C:\\windows\\system32\\winemenubuilder.exe -a -r" (2).
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/i386-unix/wine-preloader -> /home/hatch/workspace/win32-compat/wrap/w10524857318775472579.sh
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/i386-unix/wine-preloader -> /home/hatch/workspace/win32-compat/wrap/w10524857318775472579.sh
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/i386-unix/wine-preloader -> /home/hatch/workspace/win32-compat/wrap/w10524857318775472579.sh
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/i386-unix/wine-preloader -> /home/hatch/workspace/win32-compat/wrap/w10524857318775472579.sh
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/i386-unix/wine-preloader -> /home/hatch/workspace/win32-compat/wrap/w10524857318775472579.sh
+009c:err:ntoskrnl:ZwLoadDriver failed to create driver L"\\Registry\\Machine\\System\\CurrentControlSet\\Services\\winebus": c0000135
+0034:fixme:service:scmdatabase_autostart_services Auto-start service L"winebus" failed to start: 126
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/i386-unix/wine-preloader -> /home/hatch/workspace/win32-compat/wrap/w10524857318775472579.sh
+00bc:err:wineusb:DriverEntry Failed to initialize Unix library, status 0xc0000135.
+00bc:err:ntoskrnl:ZwLoadDriver failed to create driver L"\\Registry\\Machine\\System\\CurrentControlSet\\Services\\wineusb": c0000135
+0034:fixme:service:scmdatabase_autostart_services Auto-start service L"wineusb" failed to start: 126
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/i386-unix/wine-preloader -> /home/hatch/workspace/win32-compat/wrap/w10524857318775472579.sh
+00d4:err:ntoskrnl:ZwLoadDriver failed to create driver L"\\Registry\\Machine\\System\\CurrentControlSet\\Services\\winebth": c00000e5
+0034:fixme:service:scmdatabase_autostart_services Auto-start service L"winebth" failed to start: 1359
+00dc:err:seh:segv_handler Got unexpected trap -1
+00dc:err:virtual:virtual_setup_exception nested exception on signal stack addr 0x406097c6 stack 0xf1f0d4
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/i386-unix/wine-preloader -> /home/hatch/workspace/win32-compat/wrap/w10524857318775472579.sh
+00e8:err:vulkan:vulkan_init_once Failed to load libvulkan.so.1
+libEGL warning: DRI3 error: Could not get DRI3 device
+libEGL warning: Ensure your X server supports DRI3 to get accelerated rendering
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/i386-unix/wine-preloader -> /home/hatch/workspace/win32-compat/wrap/w10524857318775472579.sh
+0024:err:winediag:wined3d_dll_init Setting multithreaded command stream to 0x1.
+0024:err:winediag:process_attach failed to load libgnutls, no support for pfx import/export
+0024:err:vulkan:vulkan_init_once Failed to load libvulkan.so.1
+libEGL warning: DRI3 error: Could not get DRI3 device
+libEGL warning: Ensure your X server supports DRI3 to get accelerated rendering
+0024:fixme:d3d:wined3d_guess_card No card selector available for card vendor 0000 (using GL_RENDERER "llvmpipe (LLVM 20.1.2, 256 bits)").
+0024:fixme:ntdll:NtQuerySystemInformation info_class SYSTEM_PERFORMANCE_INFORMATION
+0120:fixme:wgl:win32u_context_create Unknown WGL_CONTEXT_FLAGS_ARB 0x1
+0024:fixme:d3d:wined3d_guess_card No card selector available for card vendor 0000 (using GL_RENDERER "llvmpipe (LLVM 20.1.2, 256 bits)").
+0024:fixme:dwmapi:DwmEnableComposition (0) stub
+0024:fixme:d3d:wined3d_guess_card No card selector available for card vendor 0000 (using GL_RENDERER "llvmpipe (LLVM 20.1.2, 256 bits)").
+0124:fixme:wgl:win32u_context_create Unknown WGL_CONTEXT_FLAGS_ARB 0x1
+0024:fixme:d3d:wined3d_guess_card No card selector available for card vendor 0000 (using GL_RENDERER "llvmpipe (LLVM 20.1.2, 256 bits)").
+0024:fixme:d3d:wined3d_guess_card No card selector available for card vendor 0000 (using GL_RENDERER "llvmpipe (LLVM 20.1.2, 256 bits)").
+0024:fixme:d3d:wined3d_guess_card No card selector available for card vendor 0000 (using GL_RENDERER "llvmpipe (LLVM 20.1.2, 256 bits)").
+0128:fixme:wgl:win32u_context_create Unknown WGL_CONTEXT_FLAGS_ARB 0x1
+0024:err:seh:segv_handler Got unexpected trap -1
+wine: Unhandled illegal instruction at address 00413A61 (thread 0024), starting debugger...
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/i386-unix/wine-preloader -> /home/hatch/workspace/win32-compat/wrap/w10524857318775472579.sh
+[q32sup] execve /home/hatch/workspace/vn-trials/wine32/wine-11.21-x86/lib/wine/i386-unix/wine-preloader -> /home/hatch/workspace/win32-compat/wrap/w10524857318775472579.sh
